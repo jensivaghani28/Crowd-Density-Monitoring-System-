@@ -1,0 +1,1501 @@
+timestamp,location,people_count,area_size,density,weather,event_type
+2026-01-01 08:00:00,Stage Area,873,87,10.03,Sunny,Emergency
+2026-01-01 08:30:00,Gate B,117,44,2.66,Sunny,Concert
+2026-01-01 09:00:00,Parking,941,75,12.55,Cloudy,Normal
+2026-01-01 09:30:00,Parking,972,66,14.73,Sunny,Festival
+2026-01-01 10:00:00,Stage Area,205,50,4.1,Rainy,Festival
+2026-01-01 10:30:00,Parking,798,88,9.07,Rainy,Concert
+2026-01-01 11:00:00,Gate C,650,81,8.02,Cloudy,Concert
+2026-01-01 11:30:00,Gate C,220,87,2.53,Sunny,Normal
+2026-01-01 12:00:00,Parking,347,50,6.94,Rainy,Festival
+2026-01-01 12:30:00,Gate B,194,61,3.18,Rainy,Emergency
+2026-01-01 13:00:00,Stage Area,992,58,17.1,Rainy,Concert
+2026-01-01 13:30:00,Stage Area,243,67,3.63,Cloudy,Concert
+2026-01-01 14:00:00,Gate B,956,66,14.48,Cloudy,Concert
+2026-01-01 14:30:00,Gate C,455,48,9.48,Rainy,Concert
+2026-01-01 15:00:00,Gate B,100,96,1.04,Rainy,Festival
+2026-01-01 15:30:00,Gate B,865,57,15.18,Cloudy,Concert
+2026-01-01 16:00:00,Gate C,117,71,1.65,Sunny,Normal
+2026-01-01 16:30:00,Stage Area,888,67,13.25,Sunny,Normal
+2026-01-01 17:00:00,Stage Area,507,72,7.04,Rainy,Emergency
+2026-01-01 17:30:00,Gate A,580,80,7.25,Sunny,Emergency
+2026-01-01 18:00:00,Gate A,618,98,6.31,Rainy,Concert
+2026-01-01 18:30:00,Gate C,982,98,10.02,Sunny,Concert
+2026-01-01 19:00:00,Gate A,929,99,9.38,Sunny,Normal
+2026-01-01 19:30:00,Stage Area,843,84,10.04,Cloudy,Concert
+2026-01-01 20:00:00,Stage Area,634,49,12.94,Rainy,Emergency
+2026-01-01 20:30:00,Gate A,158,45,3.51,Rainy,Festival
+2026-01-01 21:00:00,Gate A,279,74,3.77,Rainy,Emergency
+2026-01-01 21:30:00,Gate B,943,55,17.15,Sunny,Concert
+2026-01-01 22:00:00,Gate A,430,89,4.83,Sunny,Festival
+2026-01-01 22:30:00,Gate B,626,86,7.28,Cloudy,Festival
+2026-01-01 23:00:00,Gate B,241,42,5.74,Sunny,Normal
+2026-01-01 23:30:00,Gate B,368,47,7.83,Sunny,Emergency
+2026-01-02 00:00:00,Gate C,423,83,5.1,Cloudy,Normal
+2026-01-02 00:30:00,Gate A,622,92,6.76,Cloudy,Concert
+2026-01-02 01:00:00,Stage Area,279,61,4.57,Rainy,Emergency
+2026-01-02 01:30:00,Gate A,360,53,6.79,Sunny,Emergency
+2026-01-02 02:00:00,Stage Area,225,78,2.88,Rainy,Emergency
+2026-01-02 02:30:00,Gate A,603,66,9.14,Rainy,Concert
+2026-01-02 03:00:00,Gate B,356,49,7.27,Cloudy,Festival
+2026-01-02 03:30:00,Stage Area,440,63,6.98,Rainy,Emergency
+2026-01-02 04:00:00,Parking,912,71,12.85,Rainy,Normal
+2026-01-02 04:30:00,Parking,591,68,8.69,Rainy,Normal
+2026-01-02 05:00:00,Stage Area,747,82,9.11,Rainy,Normal
+2026-01-02 05:30:00,Gate C,705,60,11.75,Rainy,Normal
+2026-01-02 06:00:00,Gate C,826,98,8.43,Cloudy,Emergency
+2026-01-02 06:30:00,Gate C,888,73,12.16,Sunny,Normal
+2026-01-02 07:00:00,Gate A,131,76,1.72,Rainy,Normal
+2026-01-02 07:30:00,Parking,620,99,6.26,Sunny,Festival
+2026-01-02 08:00:00,Gate B,532,48,11.08,Sunny,Normal
+2026-01-02 08:30:00,Stage Area,999,99,10.09,Cloudy,Concert
+2026-01-02 09:00:00,Gate C,149,88,1.69,Cloudy,Normal
+2026-01-02 09:30:00,Gate C,827,74,11.18,Rainy,Festival
+2026-01-02 10:00:00,Gate C,176,95,1.85,Cloudy,Concert
+2026-01-02 10:30:00,Parking,834,41,20.34,Sunny,Concert
+2026-01-02 11:00:00,Gate A,852,90,9.47,Cloudy,Festival
+2026-01-02 11:30:00,Stage Area,942,68,13.85,Cloudy,Normal
+2026-01-02 12:00:00,Parking,53,74,0.72,Rainy,Festival
+2026-01-02 12:30:00,Gate A,566,43,13.16,Cloudy,Festival
+2026-01-02 13:00:00,Stage Area,248,83,2.99,Rainy,Concert
+2026-01-02 13:30:00,Gate A,225,72,3.12,Cloudy,Normal
+2026-01-02 14:00:00,Gate B,100,97,1.03,Sunny,Festival
+2026-01-02 14:30:00,Gate C,816,61,13.38,Cloudy,Festival
+2026-01-02 15:00:00,Gate C,406,86,4.72,Cloudy,Normal
+2026-01-02 15:30:00,Stage Area,77,48,1.6,Rainy,Emergency
+2026-01-02 16:00:00,Gate A,603,75,8.04,Rainy,Festival
+2026-01-02 16:30:00,Stage Area,371,63,5.89,Sunny,Festival
+2026-01-02 17:00:00,Gate C,524,84,6.24,Rainy,Normal
+2026-01-02 17:30:00,Gate B,836,76,11.0,Sunny,Emergency
+2026-01-02 18:00:00,Gate A,162,68,2.38,Cloudy,Concert
+2026-01-02 18:30:00,Gate C,815,68,11.99,Sunny,Festival
+2026-01-02 19:00:00,Gate C,122,52,2.35,Cloudy,Concert
+2026-01-02 19:30:00,Parking,855,66,12.95,Rainy,Emergency
+2026-01-02 20:00:00,Stage Area,84,42,2.0,Sunny,Concert
+2026-01-02 20:30:00,Gate B,66,73,0.9,Rainy,Normal
+2026-01-02 21:00:00,Gate A,728,46,15.83,Sunny,Normal
+2026-01-02 21:30:00,Parking,853,76,11.22,Cloudy,Normal
+2026-01-02 22:00:00,Stage Area,207,43,4.81,Rainy,Emergency
+2026-01-02 22:30:00,Parking,503,97,5.19,Cloudy,Concert
+2026-01-02 23:00:00,Parking,666,96,6.94,Cloudy,Concert
+2026-01-02 23:30:00,Stage Area,183,87,2.1,Rainy,Festival
+2026-01-03 00:00:00,Gate A,434,46,9.43,Cloudy,Normal
+2026-01-03 00:30:00,Stage Area,543,62,8.76,Rainy,Concert
+2026-01-03 01:00:00,Parking,148,45,3.29,Sunny,Festival
+2026-01-03 01:30:00,Stage Area,205,86,2.38,Cloudy,Concert
+2026-01-03 02:00:00,Stage Area,631,47,13.43,Rainy,Emergency
+2026-01-03 02:30:00,Stage Area,421,41,10.27,Sunny,Normal
+2026-01-03 03:00:00,Gate A,405,46,8.8,Rainy,Normal
+2026-01-03 03:30:00,Gate B,682,82,8.32,Sunny,Emergency
+2026-01-03 04:00:00,Gate A,592,74,8.0,Cloudy,Emergency
+2026-01-03 04:30:00,Parking,450,85,5.29,Cloudy,Concert
+2026-01-03 05:00:00,Parking,930,40,23.25,Cloudy,Concert
+2026-01-03 05:30:00,Parking,168,46,3.65,Rainy,Festival
+2026-01-03 06:00:00,Gate A,154,47,3.28,Rainy,Emergency
+2026-01-03 06:30:00,Stage Area,189,50,3.78,Cloudy,Normal
+2026-01-03 07:00:00,Gate C,552,48,11.5,Sunny,Normal
+2026-01-03 07:30:00,Stage Area,123,46,2.67,Sunny,Emergency
+2026-01-03 08:00:00,Parking,804,43,18.7,Rainy,Concert
+2026-01-03 08:30:00,Gate A,768,80,9.6,Cloudy,Emergency
+2026-01-03 09:00:00,Gate B,878,100,8.78,Rainy,Festival
+2026-01-03 09:30:00,Gate A,403,94,4.29,Cloudy,Normal
+2026-01-03 10:00:00,Gate A,272,75,3.63,Sunny,Festival
+2026-01-03 10:30:00,Gate C,288,82,3.51,Cloudy,Emergency
+2026-01-03 11:00:00,Gate C,54,42,1.29,Cloudy,Normal
+2026-01-03 11:30:00,Parking,521,73,7.14,Rainy,Concert
+2026-01-03 12:00:00,Gate B,117,59,1.98,Sunny,Festival
+2026-01-03 12:30:00,Gate C,613,51,12.02,Cloudy,Normal
+2026-01-03 13:00:00,Stage Area,70,59,1.19,Rainy,Festival
+2026-01-03 13:30:00,Gate B,230,58,3.97,Rainy,Emergency
+2026-01-03 14:00:00,Parking,552,73,7.56,Rainy,Festival
+2026-01-03 14:30:00,Gate C,442,70,6.31,Sunny,Concert
+2026-01-03 15:00:00,Gate C,965,58,16.64,Cloudy,Emergency
+2026-01-03 15:30:00,Gate A,78,49,1.59,Cloudy,Normal
+2026-01-03 16:00:00,Parking,881,48,18.35,Cloudy,Emergency
+2026-01-03 16:30:00,Stage Area,75,91,0.82,Cloudy,Festival
+2026-01-03 17:00:00,Gate A,689,60,11.48,Rainy,Concert
+2026-01-03 17:30:00,Parking,123,89,1.38,Rainy,Emergency
+2026-01-03 18:00:00,Parking,134,52,2.58,Cloudy,Emergency
+2026-01-03 18:30:00,Gate B,964,91,10.59,Rainy,Concert
+2026-01-03 19:00:00,Gate C,752,75,10.03,Rainy,Concert
+2026-01-03 19:30:00,Parking,322,91,3.54,Cloudy,Emergency
+2026-01-03 20:00:00,Gate C,628,77,8.16,Sunny,Festival
+2026-01-03 20:30:00,Gate C,219,91,2.41,Rainy,Emergency
+2026-01-03 21:00:00,Parking,582,66,8.82,Cloudy,Concert
+2026-01-03 21:30:00,Gate A,618,49,12.61,Rainy,Emergency
+2026-01-03 22:00:00,Gate C,945,91,10.38,Sunny,Normal
+2026-01-03 22:30:00,Gate B,796,98,8.12,Sunny,Festival
+2026-01-03 23:00:00,Parking,268,59,4.54,Cloudy,Normal
+2026-01-03 23:30:00,Gate B,204,72,2.83,Sunny,Concert
+2026-01-04 00:00:00,Gate A,149,61,2.44,Sunny,Concert
+2026-01-04 00:30:00,Stage Area,831,73,11.38,Cloudy,Normal
+2026-01-04 01:00:00,Stage Area,145,94,1.54,Sunny,Concert
+2026-01-04 01:30:00,Gate A,636,71,8.96,Cloudy,Normal
+2026-01-04 02:00:00,Gate C,221,89,2.48,Rainy,Concert
+2026-01-04 02:30:00,Gate C,574,78,7.36,Cloudy,Festival
+2026-01-04 03:00:00,Parking,936,86,10.88,Sunny,Concert
+2026-01-04 03:30:00,Gate C,984,40,24.6,Rainy,Normal
+2026-01-04 04:00:00,Gate B,818,85,9.62,Rainy,Concert
+2026-01-04 04:30:00,Parking,802,77,10.42,Rainy,Normal
+2026-01-04 05:00:00,Gate A,673,59,11.41,Rainy,Emergency
+2026-01-04 05:30:00,Gate C,220,55,4.0,Cloudy,Concert
+2026-01-04 06:00:00,Stage Area,611,69,8.86,Sunny,Concert
+2026-01-04 06:30:00,Gate B,628,82,7.66,Rainy,Emergency
+2026-01-04 07:00:00,Gate A,210,90,2.33,Rainy,Concert
+2026-01-04 07:30:00,Parking,175,65,2.69,Rainy,Emergency
+2026-01-04 08:00:00,Parking,616,58,10.62,Sunny,Concert
+2026-01-04 08:30:00,Stage Area,853,90,9.48,Rainy,Concert
+2026-01-04 09:00:00,Stage Area,474,65,7.29,Sunny,Concert
+2026-01-04 09:30:00,Gate A,432,61,7.08,Cloudy,Normal
+2026-01-04 10:00:00,Gate B,190,98,1.94,Cloudy,Emergency
+2026-01-04 10:30:00,Gate C,448,81,5.53,Rainy,Normal
+2026-01-04 11:00:00,Parking,904,44,20.55,Rainy,Emergency
+2026-01-04 11:30:00,Parking,238,93,2.56,Cloudy,Concert
+2026-01-04 12:00:00,Gate A,949,85,11.16,Cloudy,Festival
+2026-01-04 12:30:00,Stage Area,699,90,7.77,Rainy,Concert
+2026-01-04 13:00:00,Gate A,457,72,6.35,Cloudy,Concert
+2026-01-04 13:30:00,Gate A,150,93,1.61,Sunny,Concert
+2026-01-04 14:00:00,Gate C,161,67,2.4,Sunny,Emergency
+2026-01-04 14:30:00,Parking,814,61,13.34,Rainy,Festival
+2026-01-04 15:00:00,Gate C,434,42,10.33,Sunny,Concert
+2026-01-04 15:30:00,Gate B,194,66,2.94,Rainy,Normal
+2026-01-04 16:00:00,Gate A,726,46,15.78,Sunny,Festival
+2026-01-04 16:30:00,Gate B,576,77,7.48,Sunny,Festival
+2026-01-04 17:00:00,Gate B,82,95,0.86,Rainy,Emergency
+2026-01-04 17:30:00,Gate C,269,55,4.89,Rainy,Normal
+2026-01-04 18:00:00,Parking,991,86,11.52,Cloudy,Normal
+2026-01-04 18:30:00,Parking,221,65,3.4,Rainy,Festival
+2026-01-04 19:00:00,Gate C,986,43,22.93,Cloudy,Normal
+2026-01-04 19:30:00,Gate A,464,41,11.32,Rainy,Normal
+2026-01-04 20:00:00,Gate A,292,94,3.11,Cloudy,Emergency
+2026-01-04 20:30:00,Gate A,189,44,4.3,Cloudy,Festival
+2026-01-04 21:00:00,Gate B,812,54,15.04,Cloudy,Emergency
+2026-01-04 21:30:00,Gate B,837,85,9.85,Cloudy,Festival
+2026-01-04 22:00:00,Gate C,930,45,20.67,Sunny,Emergency
+2026-01-04 22:30:00,Parking,242,71,3.41,Cloudy,Concert
+2026-01-04 23:00:00,Stage Area,577,78,7.4,Sunny,Normal
+2026-01-04 23:30:00,Gate A,449,49,9.16,Rainy,Emergency
+2026-01-05 00:00:00,Gate B,629,69,9.12,Sunny,Concert
+2026-01-05 00:30:00,Gate C,793,60,13.22,Rainy,Normal
+2026-01-05 01:00:00,Stage Area,231,72,3.21,Sunny,Emergency
+2026-01-05 01:30:00,Stage Area,533,48,11.1,Cloudy,Normal
+2026-01-05 02:00:00,Gate A,664,79,8.41,Rainy,Normal
+2026-01-05 02:30:00,Parking,225,86,2.62,Rainy,Concert
+2026-01-05 03:00:00,Gate A,179,82,2.18,Sunny,Concert
+2026-01-05 03:30:00,Stage Area,629,87,7.23,Sunny,Normal
+2026-01-05 04:00:00,Gate A,547,43,12.72,Cloudy,Normal
+2026-01-05 04:30:00,Gate C,765,98,7.81,Sunny,Emergency
+2026-01-05 05:00:00,Parking,186,49,3.8,Cloudy,Normal
+2026-01-05 05:30:00,Gate C,766,90,8.51,Sunny,Emergency
+2026-01-05 06:00:00,Stage Area,513,50,10.26,Sunny,Festival
+2026-01-05 06:30:00,Gate C,382,60,6.37,Rainy,Concert
+2026-01-05 07:00:00,Gate B,598,60,9.97,Sunny,Festival
+2026-01-05 07:30:00,Gate A,926,66,14.03,Rainy,Normal
+2026-01-05 08:00:00,Stage Area,909,42,21.64,Cloudy,Festival
+2026-01-05 08:30:00,Parking,544,46,11.83,Rainy,Normal
+2026-01-05 09:00:00,Gate C,887,42,21.12,Sunny,Festival
+2026-01-05 09:30:00,Gate C,364,57,6.39,Cloudy,Emergency
+2026-01-05 10:00:00,Stage Area,589,42,14.02,Cloudy,Festival
+2026-01-05 10:30:00,Gate C,102,68,1.5,Rainy,Festival
+2026-01-05 11:00:00,Gate C,794,60,13.23,Sunny,Concert
+2026-01-05 11:30:00,Stage Area,416,53,7.85,Rainy,Normal
+2026-01-05 12:00:00,Parking,410,47,8.72,Rainy,Normal
+2026-01-05 12:30:00,Stage Area,977,54,18.09,Sunny,Concert
+2026-01-05 13:00:00,Gate A,228,86,2.65,Rainy,Concert
+2026-01-05 13:30:00,Gate A,764,60,12.73,Rainy,Concert
+2026-01-05 14:00:00,Parking,385,99,3.89,Cloudy,Festival
+2026-01-05 14:30:00,Parking,71,80,0.89,Sunny,Festival
+2026-01-05 15:00:00,Gate B,77,61,1.26,Rainy,Festival
+2026-01-05 15:30:00,Gate C,612,73,8.38,Rainy,Concert
+2026-01-05 16:00:00,Gate C,198,64,3.09,Cloudy,Emergency
+2026-01-05 16:30:00,Gate A,740,70,10.57,Sunny,Concert
+2026-01-05 17:00:00,Gate C,566,74,7.65,Sunny,Concert
+2026-01-05 17:30:00,Gate B,872,82,10.63,Cloudy,Festival
+2026-01-05 18:00:00,Parking,968,66,14.67,Rainy,Normal
+2026-01-05 18:30:00,Gate C,580,53,10.94,Cloudy,Concert
+2026-01-05 19:00:00,Gate B,403,51,7.9,Cloudy,Normal
+2026-01-05 19:30:00,Parking,298,85,3.51,Cloudy,Normal
+2026-01-05 20:00:00,Stage Area,967,72,13.43,Cloudy,Normal
+2026-01-05 20:30:00,Stage Area,538,62,8.68,Rainy,Concert
+2026-01-05 21:00:00,Stage Area,376,53,7.09,Sunny,Festival
+2026-01-05 21:30:00,Stage Area,489,85,5.75,Sunny,Emergency
+2026-01-05 22:00:00,Gate A,549,62,8.85,Rainy,Concert
+2026-01-05 22:30:00,Gate B,648,50,12.96,Rainy,Emergency
+2026-01-05 23:00:00,Gate A,997,54,18.46,Sunny,Concert
+2026-01-05 23:30:00,Gate C,217,93,2.33,Cloudy,Concert
+2026-01-06 00:00:00,Stage Area,884,100,8.84,Sunny,Concert
+2026-01-06 00:30:00,Gate A,201,72,2.79,Cloudy,Concert
+2026-01-06 01:00:00,Gate C,303,42,7.21,Rainy,Concert
+2026-01-06 01:30:00,Parking,693,71,9.76,Cloudy,Normal
+2026-01-06 02:00:00,Parking,512,96,5.33,Rainy,Festival
+2026-01-06 02:30:00,Gate C,673,62,10.85,Rainy,Festival
+2026-01-06 03:00:00,Gate A,546,69,7.91,Rainy,Emergency
+2026-01-06 03:30:00,Parking,464,51,9.1,Sunny,Concert
+2026-01-06 04:00:00,Gate B,132,91,1.45,Cloudy,Concert
+2026-01-06 04:30:00,Gate A,955,52,18.37,Rainy,Festival
+2026-01-06 05:00:00,Stage Area,60,66,0.91,Cloudy,Normal
+2026-01-06 05:30:00,Parking,771,59,13.07,Sunny,Emergency
+2026-01-06 06:00:00,Stage Area,404,56,7.21,Rainy,Emergency
+2026-01-06 06:30:00,Parking,934,79,11.82,Rainy,Normal
+2026-01-06 07:00:00,Gate B,505,74,6.82,Cloudy,Emergency
+2026-01-06 07:30:00,Stage Area,815,42,19.4,Sunny,Concert
+2026-01-06 08:00:00,Gate B,840,49,17.14,Cloudy,Normal
+2026-01-06 08:30:00,Stage Area,987,93,10.61,Cloudy,Normal
+2026-01-06 09:00:00,Gate A,417,43,9.7,Cloudy,Concert
+2026-01-06 09:30:00,Gate C,260,100,2.6,Sunny,Normal
+2026-01-06 10:00:00,Gate B,577,81,7.12,Rainy,Normal
+2026-01-06 10:30:00,Stage Area,465,96,4.84,Sunny,Festival
+2026-01-06 11:00:00,Gate A,553,60,9.22,Sunny,Concert
+2026-01-06 11:30:00,Parking,236,58,4.07,Cloudy,Emergency
+2026-01-06 12:00:00,Gate B,604,62,9.74,Rainy,Concert
+2026-01-06 12:30:00,Parking,519,70,7.41,Cloudy,Normal
+2026-01-06 13:00:00,Gate B,771,64,12.05,Rainy,Festival
+2026-01-06 13:30:00,Gate C,293,73,4.01,Sunny,Emergency
+2026-01-06 14:00:00,Parking,262,88,2.98,Rainy,Festival
+2026-01-06 14:30:00,Gate B,875,92,9.51,Cloudy,Concert
+2026-01-06 15:00:00,Gate A,773,72,10.74,Rainy,Festival
+2026-01-06 15:30:00,Gate C,880,82,10.73,Cloudy,Normal
+2026-01-06 16:00:00,Parking,985,85,11.59,Sunny,Festival
+2026-01-06 16:30:00,Gate B,784,76,10.32,Rainy,Normal
+2026-01-06 17:00:00,Gate C,475,93,5.11,Sunny,Emergency
+2026-01-06 17:30:00,Stage Area,150,40,3.75,Cloudy,Festival
+2026-01-06 18:00:00,Gate C,498,82,6.07,Cloudy,Concert
+2026-01-06 18:30:00,Stage Area,530,69,7.68,Cloudy,Festival
+2026-01-06 19:00:00,Gate C,310,77,4.03,Rainy,Festival
+2026-01-06 19:30:00,Stage Area,258,72,3.58,Cloudy,Festival
+2026-01-06 20:00:00,Gate B,471,100,4.71,Sunny,Concert
+2026-01-06 20:30:00,Gate B,178,94,1.89,Cloudy,Concert
+2026-01-06 21:00:00,Gate B,126,74,1.7,Cloudy,Normal
+2026-01-06 21:30:00,Gate B,970,66,14.7,Cloudy,Normal
+2026-01-06 22:00:00,Gate C,272,49,5.55,Cloudy,Festival
+2026-01-06 22:30:00,Gate B,312,71,4.39,Rainy,Concert
+2026-01-06 23:00:00,Gate B,279,64,4.36,Sunny,Concert
+2026-01-06 23:30:00,Parking,77,64,1.2,Rainy,Concert
+2026-01-07 00:00:00,Gate C,218,48,4.54,Rainy,Normal
+2026-01-07 00:30:00,Stage Area,637,55,11.58,Cloudy,Festival
+2026-01-07 01:00:00,Stage Area,148,57,2.6,Sunny,Concert
+2026-01-07 01:30:00,Parking,787,50,15.74,Cloudy,Normal
+2026-01-07 02:00:00,Gate A,488,50,9.76,Cloudy,Normal
+2026-01-07 02:30:00,Gate C,515,49,10.51,Sunny,Emergency
+2026-01-07 03:00:00,Gate C,324,50,6.48,Rainy,Concert
+2026-01-07 03:30:00,Gate C,345,85,4.06,Rainy,Concert
+2026-01-07 04:00:00,Parking,242,73,3.32,Cloudy,Emergency
+2026-01-07 04:30:00,Parking,592,46,12.87,Cloudy,Emergency
+2026-01-07 05:00:00,Gate B,296,67,4.42,Cloudy,Emergency
+2026-01-07 05:30:00,Gate B,806,83,9.71,Rainy,Emergency
+2026-01-07 06:00:00,Parking,110,77,1.43,Sunny,Emergency
+2026-01-07 06:30:00,Gate B,781,58,13.47,Rainy,Emergency
+2026-01-07 07:00:00,Gate A,127,57,2.23,Sunny,Normal
+2026-01-07 07:30:00,Parking,149,81,1.84,Sunny,Festival
+2026-01-07 08:00:00,Gate A,738,43,17.16,Cloudy,Concert
+2026-01-07 08:30:00,Parking,534,89,6.0,Cloudy,Emergency
+2026-01-07 09:00:00,Stage Area,471,91,5.18,Rainy,Normal
+2026-01-07 09:30:00,Stage Area,944,51,18.51,Cloudy,Normal
+2026-01-07 10:00:00,Stage Area,488,65,7.51,Sunny,Concert
+2026-01-07 10:30:00,Gate B,278,62,4.48,Sunny,Normal
+2026-01-07 11:00:00,Gate A,660,48,13.75,Sunny,Normal
+2026-01-07 11:30:00,Stage Area,500,60,8.33,Rainy,Emergency
+2026-01-07 12:00:00,Stage Area,529,68,7.78,Cloudy,Festival
+2026-01-07 12:30:00,Gate B,663,52,12.75,Rainy,Emergency
+2026-01-07 13:00:00,Stage Area,370,55,6.73,Sunny,Normal
+2026-01-07 13:30:00,Gate A,792,79,10.03,Cloudy,Emergency
+2026-01-07 14:00:00,Gate A,264,97,2.72,Rainy,Concert
+2026-01-07 14:30:00,Gate A,55,79,0.7,Rainy,Festival
+2026-01-07 15:00:00,Gate A,228,45,5.07,Sunny,Normal
+2026-01-07 15:30:00,Stage Area,452,46,9.83,Rainy,Emergency
+2026-01-07 16:00:00,Gate B,741,83,8.93,Rainy,Emergency
+2026-01-07 16:30:00,Gate B,299,97,3.08,Rainy,Emergency
+2026-01-07 17:00:00,Stage Area,569,65,8.75,Sunny,Emergency
+2026-01-07 17:30:00,Parking,553,76,7.28,Sunny,Festival
+2026-01-07 18:00:00,Gate B,867,94,9.22,Rainy,Emergency
+2026-01-07 18:30:00,Gate B,571,58,9.84,Cloudy,Festival
+2026-01-07 19:00:00,Gate B,740,45,16.44,Cloudy,Normal
+2026-01-07 19:30:00,Stage Area,284,48,5.92,Sunny,Festival
+2026-01-07 20:00:00,Parking,338,72,4.69,Rainy,Normal
+2026-01-07 20:30:00,Gate A,975,48,20.31,Sunny,Emergency
+2026-01-07 21:00:00,Parking,68,81,0.84,Rainy,Festival
+2026-01-07 21:30:00,Gate C,659,59,11.17,Cloudy,Festival
+2026-01-07 22:00:00,Parking,581,96,6.05,Cloudy,Concert
+2026-01-07 22:30:00,Gate C,317,42,7.55,Rainy,Festival
+2026-01-07 23:00:00,Gate B,660,99,6.67,Sunny,Concert
+2026-01-07 23:30:00,Gate B,412,47,8.77,Cloudy,Normal
+2026-01-08 00:00:00,Stage Area,94,72,1.31,Cloudy,Concert
+2026-01-08 00:30:00,Parking,256,72,3.56,Sunny,Concert
+2026-01-08 01:00:00,Stage Area,446,74,6.03,Sunny,Concert
+2026-01-08 01:30:00,Stage Area,150,95,1.58,Cloudy,Emergency
+2026-01-08 02:00:00,Gate A,71,99,0.72,Sunny,Concert
+2026-01-08 02:30:00,Gate B,116,44,2.64,Rainy,Concert
+2026-01-08 03:00:00,Parking,144,57,2.53,Cloudy,Emergency
+2026-01-08 03:30:00,Gate C,546,82,6.66,Cloudy,Normal
+2026-01-08 04:00:00,Gate A,894,52,17.19,Sunny,Festival
+2026-01-08 04:30:00,Gate A,699,63,11.1,Cloudy,Festival
+2026-01-08 05:00:00,Stage Area,795,71,11.2,Rainy,Festival
+2026-01-08 05:30:00,Stage Area,960,78,12.31,Sunny,Normal
+2026-01-08 06:00:00,Gate C,619,76,8.14,Sunny,Emergency
+2026-01-08 06:30:00,Gate B,998,68,14.68,Rainy,Emergency
+2026-01-08 07:00:00,Parking,841,90,9.34,Sunny,Festival
+2026-01-08 07:30:00,Gate C,947,69,13.72,Rainy,Concert
+2026-01-08 08:00:00,Gate A,721,87,8.29,Rainy,Normal
+2026-01-08 08:30:00,Gate A,708,44,16.09,Sunny,Emergency
+2026-01-08 09:00:00,Gate B,56,98,0.57,Sunny,Normal
+2026-01-08 09:30:00,Gate C,580,40,14.5,Sunny,Emergency
+2026-01-08 10:00:00,Parking,807,93,8.68,Sunny,Normal
+2026-01-08 10:30:00,Gate C,73,85,0.86,Rainy,Festival
+2026-01-08 11:00:00,Gate C,325,100,3.25,Cloudy,Concert
+2026-01-08 11:30:00,Parking,332,68,4.88,Cloudy,Normal
+2026-01-08 12:00:00,Gate C,575,94,6.12,Sunny,Festival
+2026-01-08 12:30:00,Stage Area,729,96,7.59,Rainy,Concert
+2026-01-08 13:00:00,Gate B,314,75,4.19,Rainy,Festival
+2026-01-08 13:30:00,Stage Area,913,88,10.38,Cloudy,Festival
+2026-01-08 14:00:00,Gate A,341,73,4.67,Cloudy,Concert
+2026-01-08 14:30:00,Parking,407,49,8.31,Cloudy,Festival
+2026-01-08 15:00:00,Stage Area,633,50,12.66,Sunny,Concert
+2026-01-08 15:30:00,Parking,397,84,4.73,Cloudy,Festival
+2026-01-08 16:00:00,Stage Area,536,52,10.31,Sunny,Concert
+2026-01-08 16:30:00,Parking,922,60,15.37,Cloudy,Emergency
+2026-01-08 17:00:00,Gate A,410,65,6.31,Sunny,Normal
+2026-01-08 17:30:00,Gate A,886,44,20.14,Cloudy,Emergency
+2026-01-08 18:00:00,Gate C,826,57,14.49,Sunny,Festival
+2026-01-08 18:30:00,Gate B,66,63,1.05,Sunny,Emergency
+2026-01-08 19:00:00,Stage Area,780,77,10.13,Sunny,Concert
+2026-01-08 19:30:00,Gate C,578,44,13.14,Sunny,Emergency
+2026-01-08 20:00:00,Gate B,169,53,3.19,Sunny,Festival
+2026-01-08 20:30:00,Stage Area,112,73,1.53,Sunny,Festival
+2026-01-08 21:00:00,Stage Area,481,54,8.91,Rainy,Concert
+2026-01-08 21:30:00,Gate B,78,92,0.85,Cloudy,Concert
+2026-01-08 22:00:00,Gate B,76,89,0.85,Sunny,Concert
+2026-01-08 22:30:00,Stage Area,728,44,16.55,Cloudy,Normal
+2026-01-08 23:00:00,Gate B,703,95,7.4,Rainy,Emergency
+2026-01-08 23:30:00,Gate B,56,42,1.33,Sunny,Concert
+2026-01-09 00:00:00,Stage Area,486,46,10.57,Cloudy,Festival
+2026-01-09 00:30:00,Gate A,509,52,9.79,Cloudy,Concert
+2026-01-09 01:00:00,Gate A,944,67,14.09,Cloudy,Normal
+2026-01-09 01:30:00,Parking,436,58,7.52,Cloudy,Normal
+2026-01-09 02:00:00,Parking,233,51,4.57,Rainy,Normal
+2026-01-09 02:30:00,Stage Area,382,91,4.2,Rainy,Concert
+2026-01-09 03:00:00,Gate A,378,73,5.18,Cloudy,Festival
+2026-01-09 03:30:00,Stage Area,533,57,9.35,Sunny,Festival
+2026-01-09 04:00:00,Parking,507,81,6.26,Sunny,Normal
+2026-01-09 04:30:00,Gate B,755,92,8.21,Cloudy,Concert
+2026-01-09 05:00:00,Gate C,549,43,12.77,Sunny,Concert
+2026-01-09 05:30:00,Parking,999,65,15.37,Cloudy,Emergency
+2026-01-09 06:00:00,Gate C,442,96,4.6,Rainy,Festival
+2026-01-09 06:30:00,Stage Area,245,93,2.63,Rainy,Festival
+2026-01-09 07:00:00,Parking,865,60,14.42,Sunny,Emergency
+2026-01-09 07:30:00,Stage Area,901,82,10.99,Sunny,Concert
+2026-01-09 08:00:00,Gate C,890,58,15.34,Sunny,Festival
+2026-01-09 08:30:00,Gate C,243,70,3.47,Cloudy,Festival
+2026-01-09 09:00:00,Gate C,824,45,18.31,Rainy,Festival
+2026-01-09 09:30:00,Gate A,122,94,1.3,Rainy,Festival
+2026-01-09 10:00:00,Gate B,934,53,17.62,Sunny,Festival
+2026-01-09 10:30:00,Gate C,586,45,13.02,Sunny,Normal
+2026-01-09 11:00:00,Parking,166,59,2.81,Sunny,Normal
+2026-01-09 11:30:00,Gate A,322,80,4.03,Rainy,Emergency
+2026-01-09 12:00:00,Stage Area,78,89,0.88,Rainy,Festival
+2026-01-09 12:30:00,Gate B,816,78,10.46,Cloudy,Concert
+2026-01-09 13:00:00,Stage Area,268,86,3.12,Cloudy,Emergency
+2026-01-09 13:30:00,Parking,657,78,8.42,Rainy,Emergency
+2026-01-09 14:00:00,Gate A,759,100,7.59,Cloudy,Emergency
+2026-01-09 14:30:00,Stage Area,854,93,9.18,Sunny,Normal
+2026-01-09 15:00:00,Stage Area,380,67,5.67,Sunny,Festival
+2026-01-09 15:30:00,Gate B,932,76,12.26,Rainy,Normal
+2026-01-09 16:00:00,Gate B,776,56,13.86,Cloudy,Emergency
+2026-01-09 16:30:00,Stage Area,90,83,1.08,Cloudy,Emergency
+2026-01-09 17:00:00,Gate A,980,61,16.07,Sunny,Festival
+2026-01-09 17:30:00,Gate B,471,46,10.24,Rainy,Concert
+2026-01-09 18:00:00,Stage Area,781,97,8.05,Cloudy,Emergency
+2026-01-09 18:30:00,Parking,824,59,13.97,Sunny,Emergency
+2026-01-09 19:00:00,Stage Area,263,46,5.72,Rainy,Emergency
+2026-01-09 19:30:00,Gate B,302,77,3.92,Cloudy,Festival
+2026-01-09 20:00:00,Gate A,846,68,12.44,Sunny,Concert
+2026-01-09 20:30:00,Gate A,393,78,5.04,Rainy,Emergency
+2026-01-09 21:00:00,Gate B,84,78,1.08,Sunny,Emergency
+2026-01-09 21:30:00,Gate B,920,91,10.11,Sunny,Concert
+2026-01-09 22:00:00,Stage Area,81,41,1.98,Rainy,Emergency
+2026-01-09 22:30:00,Gate B,281,55,5.11,Sunny,Festival
+2026-01-09 23:00:00,Gate C,988,66,14.97,Rainy,Emergency
+2026-01-09 23:30:00,Stage Area,548,60,9.13,Sunny,Normal
+2026-01-10 00:00:00,Parking,340,90,3.78,Cloudy,Concert
+2026-01-10 00:30:00,Gate C,709,95,7.46,Rainy,Normal
+2026-01-10 01:00:00,Parking,109,56,1.95,Cloudy,Festival
+2026-01-10 01:30:00,Gate C,697,51,13.67,Cloudy,Festival
+2026-01-10 02:00:00,Gate B,332,44,7.55,Sunny,Normal
+2026-01-10 02:30:00,Parking,446,43,10.37,Sunny,Normal
+2026-01-10 03:00:00,Gate A,601,47,12.79,Rainy,Normal
+2026-01-10 03:30:00,Gate B,755,95,7.95,Rainy,Festival
+2026-01-10 04:00:00,Parking,369,65,5.68,Rainy,Emergency
+2026-01-10 04:30:00,Gate C,695,77,9.03,Rainy,Concert
+2026-01-10 05:00:00,Parking,426,42,10.14,Cloudy,Concert
+2026-01-10 05:30:00,Gate B,268,94,2.85,Sunny,Concert
+2026-01-10 06:00:00,Gate C,562,77,7.3,Rainy,Concert
+2026-01-10 06:30:00,Gate C,956,43,22.23,Rainy,Festival
+2026-01-10 07:00:00,Gate A,990,94,10.53,Cloudy,Festival
+2026-01-10 07:30:00,Stage Area,811,83,9.77,Sunny,Normal
+2026-01-10 08:00:00,Gate C,775,79,9.81,Rainy,Concert
+2026-01-10 08:30:00,Gate B,985,45,21.89,Cloudy,Festival
+2026-01-10 09:00:00,Parking,547,84,6.51,Cloudy,Concert
+2026-01-10 09:30:00,Parking,661,92,7.18,Cloudy,Emergency
+2026-01-10 10:00:00,Stage Area,487,74,6.58,Sunny,Festival
+2026-01-10 10:30:00,Gate C,747,63,11.86,Cloudy,Emergency
+2026-01-10 11:00:00,Stage Area,883,91,9.7,Cloudy,Concert
+2026-01-10 11:30:00,Gate C,381,50,7.62,Sunny,Emergency
+2026-01-10 12:00:00,Gate A,234,44,5.32,Cloudy,Festival
+2026-01-10 12:30:00,Gate A,647,43,15.05,Rainy,Emergency
+2026-01-10 13:00:00,Gate B,155,88,1.76,Cloudy,Emergency
+2026-01-10 13:30:00,Gate C,308,96,3.21,Sunny,Festival
+2026-01-10 14:00:00,Gate B,578,55,10.51,Cloudy,Concert
+2026-01-10 14:30:00,Gate C,420,48,8.75,Sunny,Emergency
+2026-01-10 15:00:00,Gate B,568,52,10.92,Cloudy,Emergency
+2026-01-10 15:30:00,Gate B,199,51,3.9,Cloudy,Normal
+2026-01-10 16:00:00,Gate C,345,64,5.39,Cloudy,Emergency
+2026-01-10 16:30:00,Parking,717,91,7.88,Rainy,Emergency
+2026-01-10 17:00:00,Gate A,736,67,10.99,Cloudy,Normal
+2026-01-10 17:30:00,Gate C,621,45,13.8,Rainy,Festival
+2026-01-10 18:00:00,Stage Area,809,81,9.99,Rainy,Emergency
+2026-01-10 18:30:00,Parking,466,84,5.55,Sunny,Normal
+2026-01-10 19:00:00,Gate B,105,82,1.28,Cloudy,Normal
+2026-01-10 19:30:00,Gate A,887,51,17.39,Sunny,Emergency
+2026-01-10 20:00:00,Gate A,356,73,4.88,Cloudy,Emergency
+2026-01-10 20:30:00,Stage Area,740,73,10.14,Cloudy,Emergency
+2026-01-10 21:00:00,Parking,330,56,5.89,Sunny,Normal
+2026-01-10 21:30:00,Stage Area,810,65,12.46,Cloudy,Concert
+2026-01-10 22:00:00,Stage Area,720,54,13.33,Sunny,Concert
+2026-01-10 22:30:00,Gate B,912,59,15.46,Cloudy,Concert
+2026-01-10 23:00:00,Parking,779,93,8.38,Rainy,Festival
+2026-01-10 23:30:00,Gate C,256,87,2.94,Sunny,Concert
+2026-01-11 00:00:00,Parking,201,84,2.39,Rainy,Normal
+2026-01-11 00:30:00,Gate A,507,97,5.23,Rainy,Concert
+2026-01-11 01:00:00,Parking,590,45,13.11,Cloudy,Normal
+2026-01-11 01:30:00,Parking,939,50,18.78,Rainy,Normal
+2026-01-11 02:00:00,Gate C,659,57,11.56,Rainy,Normal
+2026-01-11 02:30:00,Parking,468,68,6.88,Cloudy,Concert
+2026-01-11 03:00:00,Gate B,883,59,14.97,Cloudy,Emergency
+2026-01-11 03:30:00,Parking,330,46,7.17,Sunny,Normal
+2026-01-11 04:00:00,Gate C,627,42,14.93,Sunny,Festival
+2026-01-11 04:30:00,Gate C,847,54,15.69,Sunny,Normal
+2026-01-11 05:00:00,Gate A,415,84,4.94,Sunny,Emergency
+2026-01-11 05:30:00,Gate A,596,89,6.7,Cloudy,Emergency
+2026-01-11 06:00:00,Gate A,215,58,3.71,Cloudy,Emergency
+2026-01-11 06:30:00,Stage Area,166,43,3.86,Sunny,Festival
+2026-01-11 07:00:00,Gate B,728,48,15.17,Sunny,Festival
+2026-01-11 07:30:00,Gate A,374,79,4.73,Cloudy,Normal
+2026-01-11 08:00:00,Gate B,935,51,18.33,Sunny,Normal
+2026-01-11 08:30:00,Gate A,309,100,3.09,Rainy,Normal
+2026-01-11 09:00:00,Stage Area,744,68,10.94,Cloudy,Emergency
+2026-01-11 09:30:00,Gate B,576,50,11.52,Cloudy,Normal
+2026-01-11 10:00:00,Stage Area,401,90,4.46,Sunny,Festival
+2026-01-11 10:30:00,Parking,748,54,13.85,Sunny,Concert
+2026-01-11 11:00:00,Gate B,569,70,8.13,Sunny,Festival
+2026-01-11 11:30:00,Parking,426,52,8.19,Cloudy,Concert
+2026-01-11 12:00:00,Gate A,653,81,8.06,Sunny,Emergency
+2026-01-11 12:30:00,Parking,338,49,6.9,Cloudy,Emergency
+2026-01-11 13:00:00,Parking,354,50,7.08,Sunny,Festival
+2026-01-11 13:30:00,Gate A,390,96,4.06,Sunny,Festival
+2026-01-11 14:00:00,Gate B,934,54,17.3,Rainy,Concert
+2026-01-11 14:30:00,Stage Area,982,67,14.66,Sunny,Normal
+2026-01-11 15:00:00,Gate C,551,64,8.61,Cloudy,Festival
+2026-01-11 15:30:00,Stage Area,120,46,2.61,Rainy,Concert
+2026-01-11 16:00:00,Gate C,766,59,12.98,Sunny,Concert
+2026-01-11 16:30:00,Gate B,792,99,8.0,Sunny,Festival
+2026-01-11 17:00:00,Stage Area,947,92,10.29,Sunny,Concert
+2026-01-11 17:30:00,Gate C,566,79,7.16,Cloudy,Emergency
+2026-01-11 18:00:00,Gate C,347,46,7.54,Cloudy,Concert
+2026-01-11 18:30:00,Gate C,377,47,8.02,Sunny,Festival
+2026-01-11 19:00:00,Gate A,833,41,20.32,Rainy,Emergency
+2026-01-11 19:30:00,Parking,301,44,6.84,Sunny,Concert
+2026-01-11 20:00:00,Stage Area,387,57,6.79,Cloudy,Festival
+2026-01-11 20:30:00,Gate A,159,53,3.0,Cloudy,Concert
+2026-01-11 21:00:00,Stage Area,284,79,3.59,Rainy,Festival
+2026-01-11 21:30:00,Parking,270,95,2.84,Cloudy,Concert
+2026-01-11 22:00:00,Gate B,980,55,17.82,Sunny,Emergency
+2026-01-11 22:30:00,Stage Area,909,68,13.37,Sunny,Concert
+2026-01-11 23:00:00,Gate A,901,51,17.67,Cloudy,Festival
+2026-01-11 23:30:00,Gate A,588,92,6.39,Rainy,Normal
+2026-01-12 00:00:00,Gate C,606,57,10.63,Rainy,Normal
+2026-01-12 00:30:00,Stage Area,403,94,4.29,Sunny,Emergency
+2026-01-12 01:00:00,Gate C,552,87,6.34,Sunny,Emergency
+2026-01-12 01:30:00,Gate A,438,78,5.62,Sunny,Concert
+2026-01-12 02:00:00,Gate C,431,41,10.51,Cloudy,Normal
+2026-01-12 02:30:00,Parking,339,89,3.81,Sunny,Emergency
+2026-01-12 03:00:00,Gate B,809,79,10.24,Cloudy,Concert
+2026-01-12 03:30:00,Parking,444,41,10.83,Cloudy,Festival
+2026-01-12 04:00:00,Parking,928,81,11.46,Cloudy,Normal
+2026-01-12 04:30:00,Gate A,551,100,5.51,Rainy,Normal
+2026-01-12 05:00:00,Gate C,243,43,5.65,Rainy,Concert
+2026-01-12 05:30:00,Gate A,908,93,9.76,Sunny,Festival
+2026-01-12 06:00:00,Gate B,655,72,9.1,Rainy,Festival
+2026-01-12 06:30:00,Gate A,459,71,6.46,Sunny,Festival
+2026-01-12 07:00:00,Parking,848,59,14.37,Rainy,Normal
+2026-01-12 07:30:00,Gate B,86,60,1.43,Rainy,Concert
+2026-01-12 08:00:00,Gate C,753,49,15.37,Sunny,Normal
+2026-01-12 08:30:00,Stage Area,758,73,10.38,Rainy,Emergency
+2026-01-12 09:00:00,Gate A,433,100,4.33,Sunny,Concert
+2026-01-12 09:30:00,Gate B,529,64,8.27,Sunny,Festival
+2026-01-12 10:00:00,Gate A,227,89,2.55,Cloudy,Emergency
+2026-01-12 10:30:00,Gate C,249,44,5.66,Rainy,Festival
+2026-01-12 11:00:00,Parking,602,95,6.34,Cloudy,Festival
+2026-01-12 11:30:00,Parking,526,62,8.48,Cloudy,Emergency
+2026-01-12 12:00:00,Gate A,60,61,0.98,Cloudy,Concert
+2026-01-12 12:30:00,Gate B,308,82,3.76,Sunny,Concert
+2026-01-12 13:00:00,Parking,608,55,11.05,Cloudy,Normal
+2026-01-12 13:30:00,Gate C,747,67,11.15,Sunny,Emergency
+2026-01-12 14:00:00,Parking,753,51,14.76,Cloudy,Emergency
+2026-01-12 14:30:00,Gate A,841,46,18.28,Sunny,Festival
+2026-01-12 15:00:00,Stage Area,621,74,8.39,Sunny,Normal
+2026-01-12 15:30:00,Parking,443,45,9.84,Rainy,Normal
+2026-01-12 16:00:00,Gate A,302,77,3.92,Sunny,Emergency
+2026-01-12 16:30:00,Gate C,758,60,12.63,Cloudy,Normal
+2026-01-12 17:00:00,Parking,377,68,5.54,Rainy,Normal
+2026-01-12 17:30:00,Parking,142,54,2.63,Rainy,Festival
+2026-01-12 18:00:00,Gate C,81,87,0.93,Rainy,Festival
+2026-01-12 18:30:00,Parking,193,82,2.35,Rainy,Emergency
+2026-01-12 19:00:00,Parking,246,85,2.89,Sunny,Normal
+2026-01-12 19:30:00,Gate C,578,66,8.76,Rainy,Normal
+2026-01-12 20:00:00,Gate A,341,84,4.06,Cloudy,Emergency
+2026-01-12 20:30:00,Gate A,926,59,15.69,Cloudy,Emergency
+2026-01-12 21:00:00,Stage Area,868,70,12.4,Sunny,Normal
+2026-01-12 21:30:00,Gate C,922,40,23.05,Rainy,Festival
+2026-01-12 22:00:00,Gate C,982,63,15.59,Rainy,Concert
+2026-01-12 22:30:00,Parking,584,68,8.59,Cloudy,Normal
+2026-01-12 23:00:00,Parking,971,56,17.34,Sunny,Normal
+2026-01-12 23:30:00,Stage Area,862,64,13.47,Sunny,Festival
+2026-01-13 00:00:00,Gate C,594,58,10.24,Sunny,Emergency
+2026-01-13 00:30:00,Gate A,264,65,4.06,Rainy,Normal
+2026-01-13 01:00:00,Gate C,135,70,1.93,Sunny,Festival
+2026-01-13 01:30:00,Gate C,115,64,1.8,Sunny,Emergency
+2026-01-13 02:00:00,Gate B,966,96,10.06,Cloudy,Concert
+2026-01-13 02:30:00,Gate B,645,94,6.86,Sunny,Concert
+2026-01-13 03:00:00,Stage Area,120,79,1.52,Sunny,Festival
+2026-01-13 03:30:00,Gate C,291,90,3.23,Rainy,Normal
+2026-01-13 04:00:00,Parking,331,46,7.2,Rainy,Concert
+2026-01-13 04:30:00,Parking,731,95,7.69,Sunny,Concert
+2026-01-13 05:00:00,Parking,401,70,5.73,Rainy,Festival
+2026-01-13 05:30:00,Parking,507,40,12.68,Sunny,Emergency
+2026-01-13 06:00:00,Parking,720,57,12.63,Rainy,Festival
+2026-01-13 06:30:00,Gate C,547,92,5.95,Sunny,Emergency
+2026-01-13 07:00:00,Gate B,966,95,10.17,Rainy,Festival
+2026-01-13 07:30:00,Gate A,612,84,7.29,Sunny,Concert
+2026-01-13 08:00:00,Stage Area,76,72,1.06,Rainy,Concert
+2026-01-13 08:30:00,Gate A,982,94,10.45,Sunny,Festival
+2026-01-13 09:00:00,Stage Area,280,62,4.52,Sunny,Normal
+2026-01-13 09:30:00,Parking,948,53,17.89,Rainy,Emergency
+2026-01-13 10:00:00,Gate A,475,88,5.4,Cloudy,Emergency
+2026-01-13 10:30:00,Gate C,700,60,11.67,Sunny,Emergency
+2026-01-13 11:00:00,Stage Area,685,81,8.46,Rainy,Festival
+2026-01-13 11:30:00,Gate B,116,77,1.51,Cloudy,Normal
+2026-01-13 12:00:00,Gate C,283,72,3.93,Rainy,Normal
+2026-01-13 12:30:00,Gate A,590,72,8.19,Rainy,Normal
+2026-01-13 13:00:00,Gate C,638,75,8.51,Sunny,Concert
+2026-01-13 13:30:00,Gate A,791,98,8.07,Rainy,Emergency
+2026-01-13 14:00:00,Gate B,686,41,16.73,Sunny,Concert
+2026-01-13 14:30:00,Parking,55,46,1.2,Sunny,Emergency
+2026-01-13 15:00:00,Stage Area,919,95,9.67,Cloudy,Festival
+2026-01-13 15:30:00,Gate C,119,43,2.77,Rainy,Concert
+2026-01-13 16:00:00,Gate A,339,76,4.46,Cloudy,Festival
+2026-01-13 16:30:00,Parking,93,57,1.63,Rainy,Concert
+2026-01-13 17:00:00,Gate A,709,75,9.45,Sunny,Emergency
+2026-01-13 17:30:00,Gate A,302,67,4.51,Sunny,Emergency
+2026-01-13 18:00:00,Parking,459,52,8.83,Sunny,Festival
+2026-01-13 18:30:00,Gate C,598,83,7.2,Cloudy,Normal
+2026-01-13 19:00:00,Gate A,628,40,15.7,Sunny,Emergency
+2026-01-13 19:30:00,Stage Area,892,44,20.27,Cloudy,Concert
+2026-01-13 20:00:00,Gate A,351,41,8.56,Cloudy,Normal
+2026-01-13 20:30:00,Gate B,460,75,6.13,Cloudy,Normal
+2026-01-13 21:00:00,Stage Area,247,93,2.66,Cloudy,Emergency
+2026-01-13 21:30:00,Gate C,746,62,12.03,Rainy,Festival
+2026-01-13 22:00:00,Gate B,325,59,5.51,Sunny,Emergency
+2026-01-13 22:30:00,Gate B,313,67,4.67,Sunny,Normal
+2026-01-13 23:00:00,Gate B,219,100,2.19,Rainy,Concert
+2026-01-13 23:30:00,Stage Area,609,90,6.77,Rainy,Emergency
+2026-01-14 00:00:00,Stage Area,449,72,6.24,Rainy,Festival
+2026-01-14 00:30:00,Stage Area,456,50,9.12,Sunny,Festival
+2026-01-14 01:00:00,Stage Area,980,66,14.85,Rainy,Festival
+2026-01-14 01:30:00,Gate B,189,63,3.0,Cloudy,Normal
+2026-01-14 02:00:00,Gate C,986,40,24.65,Rainy,Concert
+2026-01-14 02:30:00,Stage Area,180,74,2.43,Rainy,Normal
+2026-01-14 03:00:00,Stage Area,299,94,3.18,Cloudy,Festival
+2026-01-14 03:30:00,Gate B,56,43,1.3,Sunny,Normal
+2026-01-14 04:00:00,Gate A,101,59,1.71,Sunny,Emergency
+2026-01-14 04:30:00,Gate C,232,100,2.32,Rainy,Festival
+2026-01-14 05:00:00,Gate C,365,79,4.62,Rainy,Concert
+2026-01-14 05:30:00,Stage Area,764,76,10.05,Cloudy,Concert
+2026-01-14 06:00:00,Parking,870,53,16.42,Sunny,Concert
+2026-01-14 06:30:00,Gate A,57,42,1.36,Sunny,Emergency
+2026-01-14 07:00:00,Gate A,69,61,1.13,Cloudy,Emergency
+2026-01-14 07:30:00,Stage Area,730,80,9.12,Sunny,Normal
+2026-01-14 08:00:00,Stage Area,276,93,2.97,Sunny,Normal
+2026-01-14 08:30:00,Gate B,975,53,18.4,Rainy,Festival
+2026-01-14 09:00:00,Parking,228,82,2.78,Cloudy,Normal
+2026-01-14 09:30:00,Parking,573,70,8.19,Rainy,Normal
+2026-01-14 10:00:00,Gate B,413,95,4.35,Sunny,Concert
+2026-01-14 10:30:00,Gate C,616,53,11.62,Sunny,Emergency
+2026-01-14 11:00:00,Gate C,654,65,10.06,Cloudy,Festival
+2026-01-14 11:30:00,Parking,146,82,1.78,Rainy,Concert
+2026-01-14 12:00:00,Gate C,762,86,8.86,Rainy,Normal
+2026-01-14 12:30:00,Stage Area,908,58,15.66,Sunny,Concert
+2026-01-14 13:00:00,Gate B,244,91,2.68,Cloudy,Concert
+2026-01-14 13:30:00,Gate B,590,84,7.02,Sunny,Emergency
+2026-01-14 14:00:00,Stage Area,558,58,9.62,Sunny,Normal
+2026-01-14 14:30:00,Gate B,611,69,8.86,Rainy,Normal
+2026-01-14 15:00:00,Gate B,117,74,1.58,Sunny,Festival
+2026-01-14 15:30:00,Gate B,321,43,7.47,Rainy,Concert
+2026-01-14 16:00:00,Gate C,513,98,5.23,Sunny,Concert
+2026-01-14 16:30:00,Gate A,531,75,7.08,Cloudy,Festival
+2026-01-14 17:00:00,Gate A,487,40,12.18,Rainy,Emergency
+2026-01-14 17:30:00,Parking,283,56,5.05,Rainy,Normal
+2026-01-14 18:00:00,Stage Area,491,76,6.46,Sunny,Concert
+2026-01-14 18:30:00,Stage Area,136,43,3.16,Sunny,Normal
+2026-01-14 19:00:00,Gate C,536,51,10.51,Cloudy,Concert
+2026-01-14 19:30:00,Parking,229,45,5.09,Rainy,Festival
+2026-01-14 20:00:00,Gate B,91,83,1.1,Cloudy,Festival
+2026-01-14 20:30:00,Parking,781,71,11.0,Sunny,Concert
+2026-01-14 21:00:00,Parking,627,100,6.27,Sunny,Emergency
+2026-01-14 21:30:00,Gate B,391,70,5.59,Sunny,Normal
+2026-01-14 22:00:00,Stage Area,875,56,15.62,Cloudy,Concert
+2026-01-14 22:30:00,Gate A,174,50,3.48,Sunny,Emergency
+2026-01-14 23:00:00,Gate A,711,75,9.48,Cloudy,Emergency
+2026-01-14 23:30:00,Gate B,963,55,17.51,Cloudy,Concert
+2026-01-15 00:00:00,Stage Area,536,70,7.66,Cloudy,Emergency
+2026-01-15 00:30:00,Gate C,554,57,9.72,Sunny,Concert
+2026-01-15 01:00:00,Gate B,891,55,16.2,Cloudy,Emergency
+2026-01-15 01:30:00,Gate A,125,98,1.28,Sunny,Festival
+2026-01-15 02:00:00,Parking,503,97,5.19,Sunny,Concert
+2026-01-15 02:30:00,Gate B,957,43,22.26,Cloudy,Concert
+2026-01-15 03:00:00,Parking,204,97,2.1,Sunny,Normal
+2026-01-15 03:30:00,Gate C,603,77,7.83,Rainy,Emergency
+2026-01-15 04:00:00,Gate C,58,90,0.64,Cloudy,Emergency
+2026-01-15 04:30:00,Parking,562,74,7.59,Rainy,Normal
+2026-01-15 05:00:00,Gate A,116,48,2.42,Rainy,Normal
+2026-01-15 05:30:00,Parking,287,90,3.19,Cloudy,Concert
+2026-01-15 06:00:00,Stage Area,664,65,10.22,Sunny,Concert
+2026-01-15 06:30:00,Gate B,183,61,3.0,Cloudy,Concert
+2026-01-15 07:00:00,Stage Area,771,43,17.93,Sunny,Festival
+2026-01-15 07:30:00,Gate C,608,59,10.31,Rainy,Normal
+2026-01-15 08:00:00,Gate B,87,94,0.93,Sunny,Emergency
+2026-01-15 08:30:00,Stage Area,160,92,1.74,Cloudy,Concert
+2026-01-15 09:00:00,Stage Area,658,90,7.31,Cloudy,Emergency
+2026-01-15 09:30:00,Parking,966,60,16.1,Cloudy,Normal
+2026-01-15 10:00:00,Gate B,400,87,4.6,Rainy,Festival
+2026-01-15 10:30:00,Parking,484,73,6.63,Cloudy,Normal
+2026-01-15 11:00:00,Gate C,210,56,3.75,Sunny,Emergency
+2026-01-15 11:30:00,Gate C,157,57,2.75,Rainy,Concert
+2026-01-15 12:00:00,Parking,483,100,4.83,Rainy,Concert
+2026-01-15 12:30:00,Gate C,346,66,5.24,Cloudy,Normal
+2026-01-15 13:00:00,Stage Area,78,98,0.8,Sunny,Emergency
+2026-01-15 13:30:00,Gate C,650,86,7.56,Rainy,Emergency
+2026-01-15 14:00:00,Parking,317,70,4.53,Sunny,Festival
+2026-01-15 14:30:00,Parking,819,85,9.64,Cloudy,Concert
+2026-01-15 15:00:00,Parking,888,83,10.7,Rainy,Emergency
+2026-01-15 15:30:00,Parking,289,45,6.42,Rainy,Emergency
+2026-01-15 16:00:00,Gate B,583,87,6.7,Rainy,Normal
+2026-01-15 16:30:00,Gate B,875,86,10.17,Cloudy,Emergency
+2026-01-15 17:00:00,Gate B,807,52,15.52,Cloudy,Normal
+2026-01-15 17:30:00,Gate B,936,99,9.45,Rainy,Festival
+2026-01-15 18:00:00,Gate A,194,94,2.06,Cloudy,Concert
+2026-01-15 18:30:00,Gate B,387,61,6.34,Rainy,Normal
+2026-01-15 19:00:00,Gate B,433,44,9.84,Cloudy,Normal
+2026-01-15 19:30:00,Gate B,953,85,11.21,Cloudy,Emergency
+2026-01-15 20:00:00,Gate C,549,40,13.72,Sunny,Normal
+2026-01-15 20:30:00,Gate C,178,85,2.09,Cloudy,Festival
+2026-01-15 21:00:00,Stage Area,980,59,16.61,Rainy,Concert
+2026-01-15 21:30:00,Gate C,365,75,4.87,Cloudy,Emergency
+2026-01-15 22:00:00,Gate A,661,84,7.87,Sunny,Emergency
+2026-01-15 22:30:00,Parking,675,99,6.82,Cloudy,Concert
+2026-01-15 23:00:00,Stage Area,116,76,1.53,Sunny,Emergency
+2026-01-15 23:30:00,Gate A,841,68,12.37,Sunny,Concert
+2026-01-16 00:00:00,Gate A,973,64,15.2,Sunny,Concert
+2026-01-16 00:30:00,Gate B,498,45,11.07,Rainy,Festival
+2026-01-16 01:00:00,Gate B,82,61,1.34,Cloudy,Normal
+2026-01-16 01:30:00,Gate C,198,87,2.28,Sunny,Normal
+2026-01-16 02:00:00,Parking,919,92,9.99,Cloudy,Festival
+2026-01-16 02:30:00,Gate B,653,43,15.19,Sunny,Festival
+2026-01-16 03:00:00,Gate A,193,71,2.72,Cloudy,Concert
+2026-01-16 03:30:00,Parking,157,70,2.24,Rainy,Concert
+2026-01-16 04:00:00,Gate A,502,82,6.12,Rainy,Festival
+2026-01-16 04:30:00,Gate C,603,72,8.38,Cloudy,Festival
+2026-01-16 05:00:00,Parking,664,71,9.35,Sunny,Normal
+2026-01-16 05:30:00,Gate C,882,44,20.05,Sunny,Concert
+2026-01-16 06:00:00,Gate A,344,77,4.47,Sunny,Emergency
+2026-01-16 06:30:00,Stage Area,718,57,12.6,Sunny,Concert
+2026-01-16 07:00:00,Gate C,787,91,8.65,Sunny,Normal
+2026-01-16 07:30:00,Gate B,896,67,13.37,Cloudy,Emergency
+2026-01-16 08:00:00,Gate B,456,91,5.01,Cloudy,Normal
+2026-01-16 08:30:00,Stage Area,941,41,22.95,Rainy,Emergency
+2026-01-16 09:00:00,Gate C,75,44,1.7,Rainy,Emergency
+2026-01-16 09:30:00,Gate B,232,94,2.47,Rainy,Festival
+2026-01-16 10:00:00,Stage Area,995,93,10.7,Rainy,Concert
+2026-01-16 10:30:00,Gate B,427,74,5.77,Sunny,Concert
+2026-01-16 11:00:00,Stage Area,828,80,10.35,Cloudy,Normal
+2026-01-16 11:30:00,Gate A,781,41,19.05,Rainy,Normal
+2026-01-16 12:00:00,Stage Area,251,100,2.51,Sunny,Festival
+2026-01-16 12:30:00,Gate C,161,56,2.88,Sunny,Concert
+2026-01-16 13:00:00,Gate C,456,90,5.07,Rainy,Emergency
+2026-01-16 13:30:00,Gate C,52,78,0.67,Sunny,Concert
+2026-01-16 14:00:00,Stage Area,377,58,6.5,Rainy,Emergency
+2026-01-16 14:30:00,Gate B,449,56,8.02,Cloudy,Festival
+2026-01-16 15:00:00,Parking,469,68,6.9,Sunny,Concert
+2026-01-16 15:30:00,Stage Area,116,76,1.53,Cloudy,Festival
+2026-01-16 16:00:00,Stage Area,181,61,2.97,Cloudy,Festival
+2026-01-16 16:30:00,Stage Area,755,68,11.1,Rainy,Concert
+2026-01-16 17:00:00,Gate A,509,87,5.85,Sunny,Emergency
+2026-01-16 17:30:00,Gate C,584,87,6.71,Cloudy,Concert
+2026-01-16 18:00:00,Gate B,323,49,6.59,Rainy,Festival
+2026-01-16 18:30:00,Gate B,821,92,8.92,Sunny,Festival
+2026-01-16 19:00:00,Gate C,704,52,13.54,Sunny,Concert
+2026-01-16 19:30:00,Gate C,983,79,12.44,Rainy,Normal
+2026-01-16 20:00:00,Gate B,871,77,11.31,Rainy,Festival
+2026-01-16 20:30:00,Gate C,929,59,15.75,Cloudy,Festival
+2026-01-16 21:00:00,Gate C,404,41,9.85,Cloudy,Concert
+2026-01-16 21:30:00,Gate A,315,48,6.56,Rainy,Festival
+2026-01-16 22:00:00,Gate C,683,49,13.94,Cloudy,Concert
+2026-01-16 22:30:00,Parking,506,76,6.66,Sunny,Normal
+2026-01-16 23:00:00,Gate C,517,60,8.62,Rainy,Normal
+2026-01-16 23:30:00,Parking,438,67,6.54,Rainy,Concert
+2026-01-17 00:00:00,Stage Area,120,40,3.0,Sunny,Festival
+2026-01-17 00:30:00,Stage Area,618,96,6.44,Cloudy,Emergency
+2026-01-17 01:00:00,Stage Area,439,72,6.1,Rainy,Concert
+2026-01-17 01:30:00,Gate C,333,47,7.09,Rainy,Emergency
+2026-01-17 02:00:00,Stage Area,516,43,12.0,Rainy,Emergency
+2026-01-17 02:30:00,Gate B,836,79,10.58,Cloudy,Emergency
+2026-01-17 03:00:00,Gate A,950,98,9.69,Cloudy,Normal
+2026-01-17 03:30:00,Gate B,677,96,7.05,Rainy,Emergency
+2026-01-17 04:00:00,Stage Area,760,47,16.17,Sunny,Festival
+2026-01-17 04:30:00,Gate A,500,75,6.67,Rainy,Normal
+2026-01-17 05:00:00,Gate A,71,86,0.83,Cloudy,Normal
+2026-01-17 05:30:00,Gate B,304,82,3.71,Sunny,Normal
+2026-01-17 06:00:00,Gate A,168,56,3.0,Cloudy,Festival
+2026-01-17 06:30:00,Parking,94,73,1.29,Sunny,Normal
+2026-01-17 07:00:00,Parking,300,83,3.61,Cloudy,Normal
+2026-01-17 07:30:00,Gate A,147,96,1.53,Rainy,Festival
+2026-01-17 08:00:00,Gate A,840,62,13.55,Cloudy,Concert
+2026-01-17 08:30:00,Parking,733,65,11.28,Cloudy,Emergency
+2026-01-17 09:00:00,Parking,997,84,11.87,Rainy,Concert
+2026-01-17 09:30:00,Gate C,108,57,1.89,Rainy,Concert
+2026-01-17 10:00:00,Parking,97,69,1.41,Cloudy,Emergency
+2026-01-17 10:30:00,Parking,564,43,13.12,Rainy,Festival
+2026-01-17 11:00:00,Gate A,625,94,6.65,Rainy,Emergency
+2026-01-17 11:30:00,Gate C,547,86,6.36,Sunny,Concert
+2026-01-17 12:00:00,Gate B,774,94,8.23,Rainy,Normal
+2026-01-17 12:30:00,Stage Area,722,82,8.8,Sunny,Festival
+2026-01-17 13:00:00,Gate A,415,55,7.55,Rainy,Concert
+2026-01-17 13:30:00,Parking,535,97,5.52,Cloudy,Normal
+2026-01-17 14:00:00,Parking,282,90,3.13,Sunny,Normal
+2026-01-17 14:30:00,Gate A,175,78,2.24,Cloudy,Concert
+2026-01-17 15:00:00,Gate C,536,53,10.11,Sunny,Concert
+2026-01-17 15:30:00,Gate B,714,91,7.85,Rainy,Festival
+2026-01-17 16:00:00,Parking,714,96,7.44,Cloudy,Concert
+2026-01-17 16:30:00,Gate A,443,85,5.21,Cloudy,Festival
+2026-01-17 17:00:00,Parking,766,50,15.32,Cloudy,Concert
+2026-01-17 17:30:00,Gate A,603,76,7.93,Cloudy,Emergency
+2026-01-17 18:00:00,Gate A,71,79,0.9,Rainy,Emergency
+2026-01-17 18:30:00,Parking,773,96,8.05,Rainy,Festival
+2026-01-17 19:00:00,Parking,932,40,23.3,Sunny,Festival
+2026-01-17 19:30:00,Parking,767,74,10.36,Sunny,Emergency
+2026-01-17 20:00:00,Parking,564,49,11.51,Rainy,Emergency
+2026-01-17 20:30:00,Gate A,544,96,5.67,Rainy,Festival
+2026-01-17 21:00:00,Gate A,359,49,7.33,Sunny,Emergency
+2026-01-17 21:30:00,Stage Area,546,48,11.38,Cloudy,Normal
+2026-01-17 22:00:00,Gate C,487,97,5.02,Sunny,Normal
+2026-01-17 22:30:00,Stage Area,78,91,0.86,Rainy,Concert
+2026-01-17 23:00:00,Gate A,84,60,1.4,Sunny,Concert
+2026-01-17 23:30:00,Gate A,459,41,11.2,Rainy,Festival
+2026-01-18 00:00:00,Stage Area,874,69,12.67,Sunny,Normal
+2026-01-18 00:30:00,Gate B,260,98,2.65,Rainy,Concert
+2026-01-18 01:00:00,Gate B,976,79,12.35,Rainy,Normal
+2026-01-18 01:30:00,Gate C,637,60,10.62,Cloudy,Normal
+2026-01-18 02:00:00,Stage Area,723,64,11.3,Cloudy,Emergency
+2026-01-18 02:30:00,Gate B,371,42,8.83,Cloudy,Normal
+2026-01-18 03:00:00,Gate A,336,90,3.73,Sunny,Concert
+2026-01-18 03:30:00,Parking,370,51,7.25,Sunny,Emergency
+2026-01-18 04:00:00,Stage Area,333,78,4.27,Rainy,Emergency
+2026-01-18 04:30:00,Gate B,543,94,5.78,Sunny,Emergency
+2026-01-18 05:00:00,Parking,970,74,13.11,Sunny,Concert
+2026-01-18 05:30:00,Parking,825,87,9.48,Cloudy,Concert
+2026-01-18 06:00:00,Gate C,361,69,5.23,Cloudy,Normal
+2026-01-18 06:30:00,Gate A,659,62,10.63,Rainy,Festival
+2026-01-18 07:00:00,Gate C,138,97,1.42,Cloudy,Concert
+2026-01-18 07:30:00,Gate B,157,70,2.24,Sunny,Emergency
+2026-01-18 08:00:00,Stage Area,291,64,4.55,Sunny,Emergency
+2026-01-18 08:30:00,Gate A,393,54,7.28,Cloudy,Emergency
+2026-01-18 09:00:00,Stage Area,625,41,15.24,Cloudy,Concert
+2026-01-18 09:30:00,Parking,845,44,19.2,Sunny,Concert
+2026-01-18 10:00:00,Parking,582,79,7.37,Rainy,Emergency
+2026-01-18 10:30:00,Parking,270,61,4.43,Cloudy,Normal
+2026-01-18 11:00:00,Gate A,355,81,4.38,Rainy,Festival
+2026-01-18 11:30:00,Gate C,246,52,4.73,Sunny,Concert
+2026-01-18 12:00:00,Gate B,584,95,6.15,Sunny,Concert
+2026-01-18 12:30:00,Gate A,524,76,6.89,Rainy,Normal
+2026-01-18 13:00:00,Gate B,449,46,9.76,Cloudy,Emergency
+2026-01-18 13:30:00,Stage Area,830,100,8.3,Cloudy,Emergency
+2026-01-18 14:00:00,Gate B,561,52,10.79,Rainy,Festival
+2026-01-18 14:30:00,Gate B,687,43,15.98,Rainy,Normal
+2026-01-18 15:00:00,Stage Area,752,44,17.09,Cloudy,Emergency
+2026-01-18 15:30:00,Stage Area,851,76,11.2,Rainy,Emergency
+2026-01-18 16:00:00,Gate A,360,79,4.56,Cloudy,Concert
+2026-01-18 16:30:00,Gate C,578,79,7.32,Rainy,Normal
+2026-01-18 17:00:00,Stage Area,142,41,3.46,Sunny,Emergency
+2026-01-18 17:30:00,Gate B,977,43,22.72,Cloudy,Concert
+2026-01-18 18:00:00,Gate A,971,40,24.27,Sunny,Festival
+2026-01-18 18:30:00,Gate C,350,50,7.0,Sunny,Concert
+2026-01-18 19:00:00,Gate C,461,80,5.76,Cloudy,Concert
+2026-01-18 19:30:00,Stage Area,647,85,7.61,Cloudy,Festival
+2026-01-18 20:00:00,Gate B,274,64,4.28,Rainy,Normal
+2026-01-18 20:30:00,Stage Area,155,100,1.55,Rainy,Festival
+2026-01-18 21:00:00,Gate C,376,56,6.71,Cloudy,Normal
+2026-01-18 21:30:00,Gate C,981,56,17.52,Sunny,Festival
+2026-01-18 22:00:00,Parking,217,70,3.1,Sunny,Emergency
+2026-01-18 22:30:00,Gate C,212,76,2.79,Sunny,Concert
+2026-01-18 23:00:00,Gate A,126,90,1.4,Cloudy,Concert
+2026-01-18 23:30:00,Gate C,757,91,8.32,Sunny,Emergency
+2026-01-19 00:00:00,Gate C,194,43,4.51,Sunny,Concert
+2026-01-19 00:30:00,Gate A,284,56,5.07,Cloudy,Concert
+2026-01-19 01:00:00,Gate B,508,91,5.58,Rainy,Normal
+2026-01-19 01:30:00,Gate A,914,66,13.85,Cloudy,Festival
+2026-01-19 02:00:00,Gate B,412,83,4.96,Sunny,Concert
+2026-01-19 02:30:00,Gate A,531,79,6.72,Rainy,Concert
+2026-01-19 03:00:00,Stage Area,640,98,6.53,Sunny,Normal
+2026-01-19 03:30:00,Gate A,505,58,8.71,Rainy,Emergency
+2026-01-19 04:00:00,Gate B,140,44,3.18,Rainy,Emergency
+2026-01-19 04:30:00,Gate C,943,43,21.93,Sunny,Normal
+2026-01-19 05:00:00,Parking,516,46,11.22,Sunny,Festival
+2026-01-19 05:30:00,Gate A,205,65,3.15,Cloudy,Normal
+2026-01-19 06:00:00,Parking,258,40,6.45,Rainy,Festival
+2026-01-19 06:30:00,Gate B,689,56,12.3,Sunny,Concert
+2026-01-19 07:00:00,Gate A,498,56,8.89,Cloudy,Emergency
+2026-01-19 07:30:00,Parking,322,79,4.08,Cloudy,Emergency
+2026-01-19 08:00:00,Stage Area,647,58,11.16,Rainy,Festival
+2026-01-19 08:30:00,Gate B,577,52,11.1,Sunny,Festival
+2026-01-19 09:00:00,Gate C,253,89,2.84,Sunny,Festival
+2026-01-19 09:30:00,Parking,897,81,11.07,Sunny,Concert
+2026-01-19 10:00:00,Stage Area,516,97,5.32,Rainy,Normal
+2026-01-19 10:30:00,Gate B,861,74,11.64,Sunny,Emergency
+2026-01-19 11:00:00,Gate B,939,96,9.78,Cloudy,Festival
+2026-01-19 11:30:00,Stage Area,661,48,13.77,Rainy,Festival
+2026-01-19 12:00:00,Stage Area,357,95,3.76,Sunny,Normal
+2026-01-19 12:30:00,Parking,378,54,7.0,Rainy,Normal
+2026-01-19 13:00:00,Gate B,76,92,0.83,Rainy,Normal
+2026-01-19 13:30:00,Parking,755,62,12.18,Cloudy,Emergency
+2026-01-19 14:00:00,Gate A,396,60,6.6,Rainy,Normal
+2026-01-19 14:30:00,Gate A,950,61,15.57,Rainy,Festival
+2026-01-19 15:00:00,Gate B,52,54,0.96,Sunny,Emergency
+2026-01-19 15:30:00,Stage Area,694,54,12.85,Rainy,Emergency
+2026-01-19 16:00:00,Gate C,738,43,17.16,Rainy,Festival
+2026-01-19 16:30:00,Stage Area,836,61,13.7,Cloudy,Concert
+2026-01-19 17:00:00,Gate B,374,79,4.73,Rainy,Normal
+2026-01-19 17:30:00,Parking,576,69,8.35,Rainy,Concert
+2026-01-19 18:00:00,Parking,917,65,14.11,Sunny,Festival
+2026-01-19 18:30:00,Parking,443,83,5.34,Cloudy,Concert
+2026-01-19 19:00:00,Gate A,450,78,5.77,Rainy,Festival
+2026-01-19 19:30:00,Stage Area,557,76,7.33,Sunny,Concert
+2026-01-19 20:00:00,Gate B,972,54,18.0,Cloudy,Normal
+2026-01-19 20:30:00,Parking,310,48,6.46,Sunny,Emergency
+2026-01-19 21:00:00,Parking,450,47,9.57,Rainy,Concert
+2026-01-19 21:30:00,Gate B,939,57,16.47,Cloudy,Emergency
+2026-01-19 22:00:00,Gate A,304,43,7.07,Cloudy,Emergency
+2026-01-19 22:30:00,Gate A,150,59,2.54,Rainy,Concert
+2026-01-19 23:00:00,Gate C,172,50,3.44,Rainy,Concert
+2026-01-19 23:30:00,Gate A,726,72,10.08,Cloudy,Festival
+2026-01-20 00:00:00,Gate A,890,50,17.8,Rainy,Festival
+2026-01-20 00:30:00,Stage Area,70,46,1.52,Rainy,Emergency
+2026-01-20 01:00:00,Stage Area,196,97,2.02,Sunny,Emergency
+2026-01-20 01:30:00,Parking,586,51,11.49,Rainy,Concert
+2026-01-20 02:00:00,Gate A,858,43,19.95,Sunny,Emergency
+2026-01-20 02:30:00,Gate A,262,100,2.62,Cloudy,Concert
+2026-01-20 03:00:00,Stage Area,469,88,5.33,Cloudy,Emergency
+2026-01-20 03:30:00,Gate B,618,56,11.04,Rainy,Normal
+2026-01-20 04:00:00,Gate A,428,45,9.51,Sunny,Concert
+2026-01-20 04:30:00,Gate C,50,94,0.53,Cloudy,Festival
+2026-01-20 05:00:00,Gate B,586,85,6.89,Sunny,Emergency
+2026-01-20 05:30:00,Gate B,891,83,10.73,Sunny,Normal
+2026-01-20 06:00:00,Parking,906,78,11.62,Sunny,Festival
+2026-01-20 06:30:00,Gate C,80,46,1.74,Sunny,Emergency
+2026-01-20 07:00:00,Gate B,502,73,6.88,Rainy,Concert
+2026-01-20 07:30:00,Gate C,824,94,8.77,Sunny,Normal
+2026-01-20 08:00:00,Gate A,768,82,9.37,Sunny,Emergency
+2026-01-20 08:30:00,Stage Area,195,68,2.87,Cloudy,Emergency
+2026-01-20 09:00:00,Stage Area,905,77,11.75,Sunny,Festival
+2026-01-20 09:30:00,Parking,99,60,1.65,Cloudy,Festival
+2026-01-20 10:00:00,Gate C,285,86,3.31,Cloudy,Emergency
+2026-01-20 10:30:00,Parking,113,67,1.69,Sunny,Normal
+2026-01-20 11:00:00,Gate A,312,79,3.95,Cloudy,Concert
+2026-01-20 11:30:00,Gate A,615,45,13.67,Cloudy,Normal
+2026-01-20 12:00:00,Gate A,497,64,7.77,Sunny,Festival
+2026-01-20 12:30:00,Gate B,460,88,5.23,Sunny,Concert
+2026-01-20 13:00:00,Stage Area,453,56,8.09,Rainy,Normal
+2026-01-20 13:30:00,Parking,796,72,11.06,Rainy,Concert
+2026-01-20 14:00:00,Gate C,727,76,9.57,Cloudy,Emergency
+2026-01-20 14:30:00,Gate A,995,99,10.05,Sunny,Festival
+2026-01-20 15:00:00,Gate B,350,59,5.93,Sunny,Concert
+2026-01-20 15:30:00,Parking,586,51,11.49,Cloudy,Festival
+2026-01-20 16:00:00,Gate C,522,96,5.44,Cloudy,Emergency
+2026-01-20 16:30:00,Gate B,628,47,13.36,Cloudy,Concert
+2026-01-20 17:00:00,Gate B,493,67,7.36,Cloudy,Concert
+2026-01-20 17:30:00,Parking,74,85,0.87,Rainy,Emergency
+2026-01-20 18:00:00,Gate A,826,50,16.52,Sunny,Emergency
+2026-01-20 18:30:00,Gate A,230,57,4.04,Cloudy,Normal
+2026-01-20 19:00:00,Gate B,378,80,4.72,Cloudy,Concert
+2026-01-20 19:30:00,Gate B,687,69,9.96,Rainy,Emergency
+2026-01-20 20:00:00,Gate C,334,91,3.67,Sunny,Emergency
+2026-01-20 20:30:00,Gate C,924,91,10.15,Cloudy,Festival
+2026-01-20 21:00:00,Gate B,433,48,9.02,Cloudy,Festival
+2026-01-20 21:30:00,Gate C,234,74,3.16,Sunny,Concert
+2026-01-20 22:00:00,Stage Area,311,53,5.87,Cloudy,Festival
+2026-01-20 22:30:00,Gate C,68,88,0.77,Sunny,Concert
+2026-01-20 23:00:00,Gate C,175,91,1.92,Sunny,Festival
+2026-01-20 23:30:00,Parking,477,53,9.0,Cloudy,Concert
+2026-01-21 00:00:00,Stage Area,295,79,3.73,Rainy,Concert
+2026-01-21 00:30:00,Stage Area,551,59,9.34,Rainy,Concert
+2026-01-21 01:00:00,Stage Area,584,85,6.87,Sunny,Emergency
+2026-01-21 01:30:00,Gate A,910,65,14.0,Sunny,Festival
+2026-01-21 02:00:00,Gate A,537,51,10.53,Sunny,Emergency
+2026-01-21 02:30:00,Gate B,767,50,15.34,Sunny,Emergency
+2026-01-21 03:00:00,Gate B,385,61,6.31,Rainy,Emergency
+2026-01-21 03:30:00,Stage Area,228,77,2.96,Sunny,Normal
+2026-01-21 04:00:00,Parking,666,95,7.01,Cloudy,Normal
+2026-01-21 04:30:00,Gate B,468,41,11.41,Sunny,Festival
+2026-01-21 05:00:00,Gate A,507,53,9.57,Cloudy,Festival
+2026-01-21 05:30:00,Gate C,289,65,4.45,Cloudy,Festival
+2026-01-21 06:00:00,Gate B,118,70,1.69,Cloudy,Festival
+2026-01-21 06:30:00,Gate B,622,56,11.11,Sunny,Festival
+2026-01-21 07:00:00,Gate A,349,63,5.54,Cloudy,Festival
+2026-01-21 07:30:00,Gate C,829,68,12.19,Cloudy,Festival
+2026-01-21 08:00:00,Parking,653,87,7.51,Sunny,Emergency
+2026-01-21 08:30:00,Gate C,226,47,4.81,Cloudy,Concert
+2026-01-21 09:00:00,Gate A,92,43,2.14,Sunny,Emergency
+2026-01-21 09:30:00,Parking,904,66,13.7,Sunny,Normal
+2026-01-21 10:00:00,Gate C,736,70,10.51,Rainy,Festival
+2026-01-21 10:30:00,Gate C,350,64,5.47,Rainy,Normal
+2026-01-21 11:00:00,Gate A,570,50,11.4,Rainy,Emergency
+2026-01-21 11:30:00,Stage Area,658,79,8.33,Sunny,Emergency
+2026-01-21 12:00:00,Parking,600,95,6.32,Cloudy,Festival
+2026-01-21 12:30:00,Gate B,122,67,1.82,Rainy,Festival
+2026-01-21 13:00:00,Stage Area,898,84,10.69,Sunny,Emergency
+2026-01-21 13:30:00,Gate C,469,88,5.33,Sunny,Concert
+2026-01-21 14:00:00,Gate A,94,85,1.11,Sunny,Normal
+2026-01-21 14:30:00,Stage Area,294,67,4.39,Cloudy,Emergency
+2026-01-21 15:00:00,Stage Area,501,62,8.08,Rainy,Emergency
+2026-01-21 15:30:00,Stage Area,248,66,3.76,Sunny,Festival
+2026-01-21 16:00:00,Stage Area,654,86,7.6,Sunny,Emergency
+2026-01-21 16:30:00,Gate C,88,61,1.44,Sunny,Concert
+2026-01-21 17:00:00,Gate B,625,96,6.51,Sunny,Normal
+2026-01-21 17:30:00,Parking,826,100,8.26,Cloudy,Normal
+2026-01-21 18:00:00,Gate A,542,84,6.45,Sunny,Festival
+2026-01-21 18:30:00,Gate B,361,50,7.22,Rainy,Emergency
+2026-01-21 19:00:00,Gate C,639,89,7.18,Sunny,Normal
+2026-01-21 19:30:00,Gate A,323,83,3.89,Sunny,Normal
+2026-01-21 20:00:00,Gate B,678,80,8.47,Rainy,Emergency
+2026-01-21 20:30:00,Gate A,381,66,5.77,Sunny,Festival
+2026-01-21 21:00:00,Gate C,978,59,16.58,Cloudy,Emergency
+2026-01-21 21:30:00,Gate C,492,41,12.0,Rainy,Festival
+2026-01-21 22:00:00,Stage Area,399,61,6.54,Rainy,Emergency
+2026-01-21 22:30:00,Gate A,646,81,7.98,Sunny,Festival
+2026-01-21 23:00:00,Gate A,197,97,2.03,Cloudy,Festival
+2026-01-21 23:30:00,Gate C,928,94,9.87,Rainy,Festival
+2026-01-22 00:00:00,Gate A,963,86,11.2,Cloudy,Emergency
+2026-01-22 00:30:00,Gate B,976,82,11.9,Cloudy,Normal
+2026-01-22 01:00:00,Gate C,603,77,7.83,Cloudy,Festival
+2026-01-22 01:30:00,Gate A,818,77,10.62,Cloudy,Normal
+2026-01-22 02:00:00,Stage Area,327,46,7.11,Rainy,Concert
+2026-01-22 02:30:00,Gate A,713,59,12.08,Sunny,Festival
+2026-01-22 03:00:00,Stage Area,836,40,20.9,Rainy,Emergency
+2026-01-22 03:30:00,Parking,951,58,16.4,Rainy,Normal
+2026-01-22 04:00:00,Gate B,545,62,8.79,Cloudy,Festival
+2026-01-22 04:30:00,Stage Area,750,82,9.15,Cloudy,Festival
+2026-01-22 05:00:00,Gate A,569,93,6.12,Cloudy,Emergency
+2026-01-22 05:30:00,Stage Area,766,48,15.96,Rainy,Concert
+2026-01-22 06:00:00,Gate B,453,65,6.97,Cloudy,Festival
+2026-01-22 06:30:00,Gate B,438,98,4.47,Rainy,Normal
+2026-01-22 07:00:00,Stage Area,672,75,8.96,Cloudy,Normal
+2026-01-22 07:30:00,Gate C,768,47,16.34,Cloudy,Concert
+2026-01-22 08:00:00,Gate A,585,87,6.72,Cloudy,Concert
+2026-01-22 08:30:00,Gate A,734,81,9.06,Rainy,Festival
+2026-01-22 09:00:00,Gate A,110,65,1.69,Cloudy,Emergency
+2026-01-22 09:30:00,Gate C,227,76,2.99,Cloudy,Festival
+2026-01-22 10:00:00,Gate B,253,72,3.51,Sunny,Emergency
+2026-01-22 10:30:00,Gate C,148,46,3.22,Rainy,Festival
+2026-01-22 11:00:00,Gate B,261,45,5.8,Cloudy,Normal
+2026-01-22 11:30:00,Gate B,922,99,9.31,Sunny,Concert
+2026-01-22 12:00:00,Stage Area,70,100,0.7,Sunny,Emergency
+2026-01-22 12:30:00,Gate B,487,72,6.76,Sunny,Normal
+2026-01-22 13:00:00,Gate B,365,95,3.84,Sunny,Normal
+2026-01-22 13:30:00,Parking,308,82,3.76,Rainy,Festival
+2026-01-22 14:00:00,Gate A,870,44,19.77,Sunny,Emergency
+2026-01-22 14:30:00,Gate B,347,50,6.94,Cloudy,Normal
+2026-01-22 15:00:00,Gate B,192,98,1.96,Cloudy,Emergency
+2026-01-22 15:30:00,Gate A,755,51,14.8,Cloudy,Festival
+2026-01-22 16:00:00,Gate B,429,77,5.57,Sunny,Festival
+2026-01-22 16:30:00,Parking,676,96,7.04,Sunny,Normal
+2026-01-22 17:00:00,Gate A,369,46,8.02,Sunny,Normal
+2026-01-22 17:30:00,Gate C,357,87,4.1,Cloudy,Normal
+2026-01-22 18:00:00,Parking,353,52,6.79,Cloudy,Festival
+2026-01-22 18:30:00,Gate B,280,78,3.59,Cloudy,Emergency
+2026-01-22 19:00:00,Parking,802,90,8.91,Cloudy,Festival
+2026-01-22 19:30:00,Stage Area,609,66,9.23,Sunny,Normal
+2026-01-22 20:00:00,Gate B,139,58,2.4,Sunny,Normal
+2026-01-22 20:30:00,Gate C,89,63,1.41,Cloudy,Emergency
+2026-01-22 21:00:00,Parking,447,40,11.18,Sunny,Concert
+2026-01-22 21:30:00,Gate B,63,72,0.88,Cloudy,Festival
+2026-01-22 22:00:00,Gate B,697,80,8.71,Rainy,Festival
+2026-01-22 22:30:00,Parking,352,59,5.97,Cloudy,Normal
+2026-01-22 23:00:00,Gate A,354,43,8.23,Cloudy,Concert
+2026-01-22 23:30:00,Gate A,832,46,18.09,Sunny,Emergency
+2026-01-23 00:00:00,Gate B,993,54,18.39,Cloudy,Concert
+2026-01-23 00:30:00,Parking,390,82,4.76,Sunny,Festival
+2026-01-23 01:00:00,Gate C,583,66,8.83,Rainy,Normal
+2026-01-23 01:30:00,Stage Area,253,74,3.42,Rainy,Concert
+2026-01-23 02:00:00,Gate B,253,63,4.02,Rainy,Normal
+2026-01-23 02:30:00,Parking,137,92,1.49,Rainy,Festival
+2026-01-23 03:00:00,Gate B,222,96,2.31,Sunny,Festival
+2026-01-23 03:30:00,Gate B,856,57,15.02,Cloudy,Normal
+2026-01-23 04:00:00,Parking,601,45,13.36,Cloudy,Concert
+2026-01-23 04:30:00,Gate C,199,89,2.24,Cloudy,Concert
+2026-01-23 05:00:00,Stage Area,801,46,17.41,Rainy,Normal
+2026-01-23 05:30:00,Gate B,487,84,5.8,Cloudy,Emergency
+2026-01-23 06:00:00,Gate C,931,79,11.78,Cloudy,Concert
+2026-01-23 06:30:00,Stage Area,486,54,9.0,Rainy,Normal
+2026-01-23 07:00:00,Gate B,983,51,19.27,Sunny,Normal
+2026-01-23 07:30:00,Gate C,891,99,9.0,Sunny,Normal
+2026-01-23 08:00:00,Gate B,184,84,2.19,Rainy,Emergency
+2026-01-23 08:30:00,Gate B,252,42,6.0,Sunny,Emergency
+2026-01-23 09:00:00,Gate B,557,43,12.95,Rainy,Normal
+2026-01-23 09:30:00,Stage Area,59,83,0.71,Rainy,Emergency
+2026-01-23 10:00:00,Stage Area,91,61,1.49,Sunny,Concert
+2026-01-23 10:30:00,Gate A,949,86,11.03,Cloudy,Emergency
+2026-01-23 11:00:00,Gate B,542,53,10.23,Sunny,Normal
+2026-01-23 11:30:00,Parking,798,60,13.3,Cloudy,Emergency
+2026-01-23 12:00:00,Parking,167,55,3.04,Rainy,Concert
+2026-01-23 12:30:00,Parking,568,79,7.19,Sunny,Concert
+2026-01-23 13:00:00,Gate B,450,44,10.23,Sunny,Festival
+2026-01-23 13:30:00,Parking,559,95,5.88,Cloudy,Normal
+2026-01-23 14:00:00,Gate A,840,85,9.88,Cloudy,Emergency
+2026-01-23 14:30:00,Stage Area,601,48,12.52,Sunny,Emergency
+2026-01-23 15:00:00,Gate C,52,91,0.57,Cloudy,Festival
+2026-01-23 15:30:00,Gate A,811,96,8.45,Cloudy,Concert
+2026-01-23 16:00:00,Parking,131,60,2.18,Rainy,Festival
+2026-01-23 16:30:00,Gate A,695,89,7.81,Sunny,Normal
+2026-01-23 17:00:00,Gate C,777,83,9.36,Cloudy,Emergency
+2026-01-23 17:30:00,Stage Area,926,58,15.97,Sunny,Concert
+2026-01-23 18:00:00,Gate B,210,62,3.39,Cloudy,Festival
+2026-01-23 18:30:00,Gate C,502,65,7.72,Rainy,Emergency
+2026-01-23 19:00:00,Stage Area,865,66,13.11,Rainy,Festival
+2026-01-23 19:30:00,Parking,825,85,9.71,Sunny,Concert
+2026-01-23 20:00:00,Gate C,989,73,13.55,Cloudy,Emergency
+2026-01-23 20:30:00,Gate C,525,80,6.56,Cloudy,Concert
+2026-01-23 21:00:00,Parking,856,56,15.29,Cloudy,Concert
+2026-01-23 21:30:00,Parking,337,61,5.52,Rainy,Concert
+2026-01-23 22:00:00,Parking,127,42,3.02,Cloudy,Normal
+2026-01-23 22:30:00,Gate B,347,84,4.13,Rainy,Festival
+2026-01-23 23:00:00,Stage Area,488,81,6.02,Rainy,Festival
+2026-01-23 23:30:00,Gate B,637,47,13.55,Cloudy,Concert
+2026-01-24 00:00:00,Gate B,498,58,8.59,Cloudy,Normal
+2026-01-24 00:30:00,Stage Area,58,54,1.07,Rainy,Emergency
+2026-01-24 01:00:00,Gate C,900,83,10.84,Cloudy,Festival
+2026-01-24 01:30:00,Gate C,371,64,5.8,Rainy,Festival
+2026-01-24 02:00:00,Parking,730,58,12.59,Sunny,Concert
+2026-01-24 02:30:00,Gate A,960,85,11.29,Rainy,Emergency
+2026-01-24 03:00:00,Gate C,858,53,16.19,Sunny,Festival
+2026-01-24 03:30:00,Gate A,663,87,7.62,Sunny,Normal
+2026-01-24 04:00:00,Gate A,913,62,14.73,Sunny,Concert
+2026-01-24 04:30:00,Stage Area,474,95,4.99,Sunny,Festival
+2026-01-24 05:00:00,Parking,998,88,11.34,Cloudy,Normal
+2026-01-24 05:30:00,Parking,604,89,6.79,Rainy,Normal
+2026-01-24 06:00:00,Gate A,383,57,6.72,Cloudy,Emergency
+2026-01-24 06:30:00,Stage Area,807,85,9.49,Cloudy,Emergency
+2026-01-24 07:00:00,Parking,470,65,7.23,Cloudy,Emergency
+2026-01-24 07:30:00,Parking,369,69,5.35,Rainy,Emergency
+2026-01-24 08:00:00,Gate B,328,43,7.63,Sunny,Festival
+2026-01-24 08:30:00,Gate C,205,48,4.27,Cloudy,Emergency
+2026-01-24 09:00:00,Gate C,436,44,9.91,Cloudy,Emergency
+2026-01-24 09:30:00,Gate C,367,57,6.44,Cloudy,Emergency
+2026-01-24 10:00:00,Gate C,793,92,8.62,Rainy,Emergency
+2026-01-24 10:30:00,Parking,84,89,0.94,Sunny,Concert
+2026-01-24 11:00:00,Stage Area,572,48,11.92,Rainy,Concert
+2026-01-24 11:30:00,Stage Area,464,56,8.29,Sunny,Emergency
+2026-01-24 12:00:00,Parking,616,61,10.1,Sunny,Emergency
+2026-01-24 12:30:00,Stage Area,461,70,6.59,Cloudy,Festival
+2026-01-24 13:00:00,Stage Area,256,51,5.02,Cloudy,Normal
+2026-01-24 13:30:00,Parking,311,78,3.99,Cloudy,Concert
+2026-01-24 14:00:00,Stage Area,865,95,9.11,Cloudy,Normal
+2026-01-24 14:30:00,Stage Area,563,75,7.51,Sunny,Normal
+2026-01-24 15:00:00,Gate B,545,83,6.57,Cloudy,Concert
+2026-01-24 15:30:00,Stage Area,64,94,0.68,Rainy,Festival
+2026-01-24 16:00:00,Gate C,182,100,1.82,Rainy,Normal
+2026-01-24 16:30:00,Gate B,169,86,1.97,Sunny,Normal
+2026-01-24 17:00:00,Gate A,702,49,14.33,Rainy,Festival
+2026-01-24 17:30:00,Gate C,317,59,5.37,Sunny,Concert
+2026-01-24 18:00:00,Gate B,309,68,4.54,Cloudy,Normal
+2026-01-24 18:30:00,Gate B,939,75,12.52,Sunny,Normal
+2026-01-24 19:00:00,Stage Area,229,94,2.44,Sunny,Normal
+2026-01-24 19:30:00,Gate B,605,50,12.1,Cloudy,Festival
+2026-01-24 20:00:00,Gate C,489,51,9.59,Cloudy,Festival
+2026-01-24 20:30:00,Gate C,784,55,14.25,Cloudy,Concert
+2026-01-24 21:00:00,Gate B,129,64,2.02,Cloudy,Normal
+2026-01-24 21:30:00,Gate C,624,98,6.37,Sunny,Concert
+2026-01-24 22:00:00,Gate A,968,60,16.13,Sunny,Emergency
+2026-01-24 22:30:00,Stage Area,214,91,2.35,Sunny,Emergency
+2026-01-24 23:00:00,Parking,637,55,11.58,Rainy,Concert
+2026-01-24 23:30:00,Gate A,77,100,0.77,Sunny,Emergency
+2026-01-25 00:00:00,Stage Area,474,43,11.02,Sunny,Normal
+2026-01-25 00:30:00,Gate A,520,98,5.31,Sunny,Festival
+2026-01-25 01:00:00,Parking,544,61,8.92,Sunny,Festival
+2026-01-25 01:30:00,Gate B,892,42,21.24,Sunny,Festival
+2026-01-25 02:00:00,Gate B,441,61,7.23,Rainy,Festival
+2026-01-25 02:30:00,Gate C,515,87,5.92,Sunny,Normal
+2026-01-25 03:00:00,Gate C,166,74,2.24,Rainy,Emergency
+2026-01-25 03:30:00,Gate A,245,94,2.61,Sunny,Concert
+2026-01-25 04:00:00,Gate B,940,63,14.92,Rainy,Emergency
+2026-01-25 04:30:00,Gate C,860,64,13.44,Rainy,Festival
+2026-01-25 05:00:00,Gate C,881,86,10.24,Sunny,Normal
+2026-01-25 05:30:00,Stage Area,381,59,6.46,Rainy,Concert
+2026-01-25 06:00:00,Gate A,969,94,10.31,Sunny,Festival
+2026-01-25 06:30:00,Gate B,521,100,5.21,Sunny,Emergency
+2026-01-25 07:00:00,Gate C,235,88,2.67,Sunny,Concert
+2026-01-25 07:30:00,Parking,565,95,5.95,Cloudy,Festival
+2026-01-25 08:00:00,Gate A,297,60,4.95,Cloudy,Festival
+2026-01-25 08:30:00,Parking,137,54,2.54,Cloudy,Festival
+2026-01-25 09:00:00,Parking,463,79,5.86,Rainy,Emergency
+2026-01-25 09:30:00,Parking,861,58,14.84,Rainy,Emergency
+2026-01-25 10:00:00,Gate A,162,97,1.67,Rainy,Festival
+2026-01-25 10:30:00,Stage Area,218,77,2.83,Cloudy,Festival
+2026-01-25 11:00:00,Gate B,249,95,2.62,Sunny,Normal
+2026-01-25 11:30:00,Gate B,155,45,3.44,Rainy,Normal
+2026-01-25 12:00:00,Gate A,514,69,7.45,Rainy,Concert
+2026-01-25 12:30:00,Stage Area,804,83,9.69,Cloudy,Festival
+2026-01-25 13:00:00,Gate C,450,55,8.18,Rainy,Emergency
+2026-01-25 13:30:00,Gate B,703,91,7.73,Sunny,Festival
+2026-01-25 14:00:00,Parking,623,82,7.6,Cloudy,Normal
+2026-01-25 14:30:00,Gate B,670,42,15.95,Sunny,Festival
+2026-01-25 15:00:00,Gate A,925,57,16.23,Cloudy,Concert
+2026-01-25 15:30:00,Gate A,568,76,7.47,Rainy,Festival
+2026-01-25 16:00:00,Gate B,930,47,19.79,Sunny,Festival
+2026-01-25 16:30:00,Stage Area,909,44,20.66,Sunny,Concert
+2026-01-25 17:00:00,Gate A,547,93,5.88,Sunny,Emergency
+2026-01-25 17:30:00,Gate A,899,83,10.83,Sunny,Emergency
+2026-01-25 18:00:00,Gate B,418,51,8.2,Sunny,Festival
+2026-01-25 18:30:00,Stage Area,572,40,14.3,Sunny,Concert
+2026-01-25 19:00:00,Parking,120,97,1.24,Cloudy,Emergency
+2026-01-25 19:30:00,Gate A,716,84,8.52,Cloudy,Concert
+2026-01-25 20:00:00,Gate B,196,47,4.17,Cloudy,Concert
+2026-01-25 20:30:00,Gate C,113,60,1.88,Sunny,Festival
+2026-01-25 21:00:00,Stage Area,645,61,10.57,Rainy,Emergency
+2026-01-25 21:30:00,Gate C,868,69,12.58,Cloudy,Normal
+2026-01-25 22:00:00,Gate C,890,65,13.69,Cloudy,Emergency
+2026-01-25 22:30:00,Stage Area,791,65,12.17,Cloudy,Normal
+2026-01-25 23:00:00,Gate B,462,67,6.9,Sunny,Festival
+2026-01-25 23:30:00,Gate B,262,43,6.09,Sunny,Concert
+2026-01-26 00:00:00,Gate A,315,87,3.62,Rainy,Concert
+2026-01-26 00:30:00,Gate C,185,68,2.72,Rainy,Emergency
+2026-01-26 01:00:00,Parking,350,92,3.8,Sunny,Normal
+2026-01-26 01:30:00,Gate C,175,67,2.61,Rainy,Festival
+2026-01-26 02:00:00,Parking,818,78,10.49,Rainy,Emergency
+2026-01-26 02:30:00,Gate B,667,48,13.9,Cloudy,Concert
+2026-01-26 03:00:00,Gate C,263,66,3.98,Cloudy,Normal
+2026-01-26 03:30:00,Stage Area,859,60,14.32,Sunny,Emergency
+2026-01-26 04:00:00,Parking,897,96,9.34,Cloudy,Festival
+2026-01-26 04:30:00,Stage Area,564,88,6.41,Cloudy,Emergency
+2026-01-26 05:00:00,Gate C,411,56,7.34,Rainy,Normal
+2026-01-26 05:30:00,Parking,299,54,5.54,Cloudy,Festival
+2026-01-26 06:00:00,Gate C,701,51,13.75,Rainy,Festival
+2026-01-26 06:30:00,Parking,130,99,1.31,Sunny,Normal
+2026-01-26 07:00:00,Gate B,668,77,8.68,Sunny,Emergency
+2026-01-26 07:30:00,Stage Area,300,65,4.62,Cloudy,Emergency
+2026-01-26 08:00:00,Gate A,419,75,5.59,Sunny,Concert
+2026-01-26 08:30:00,Stage Area,415,84,4.94,Rainy,Emergency
+2026-01-26 09:00:00,Gate A,700,79,8.86,Rainy,Concert
+2026-01-26 09:30:00,Gate C,197,96,2.05,Cloudy,Concert
+2026-01-26 10:00:00,Gate C,893,42,21.26,Sunny,Festival
+2026-01-26 10:30:00,Stage Area,421,52,8.1,Rainy,Festival
+2026-01-26 11:00:00,Gate B,889,89,9.99,Rainy,Emergency
+2026-01-26 11:30:00,Gate C,659,50,13.18,Cloudy,Emergency
+2026-01-26 12:00:00,Gate A,330,73,4.52,Rainy,Normal
+2026-01-26 12:30:00,Gate A,771,74,10.42,Cloudy,Normal
+2026-01-26 13:00:00,Gate B,55,42,1.31,Rainy,Emergency
+2026-01-26 13:30:00,Parking,608,97,6.27,Cloudy,Concert
+2026-01-26 14:00:00,Gate A,347,79,4.39,Rainy,Normal
+2026-01-26 14:30:00,Gate B,644,96,6.71,Rainy,Emergency
+2026-01-26 15:00:00,Parking,510,66,7.73,Cloudy,Normal
+2026-01-26 15:30:00,Gate B,975,74,13.18,Rainy,Normal
+2026-01-26 16:00:00,Parking,347,44,7.89,Rainy,Emergency
+2026-01-26 16:30:00,Gate C,619,92,6.73,Cloudy,Concert
+2026-01-26 17:00:00,Stage Area,522,89,5.87,Rainy,Emergency
+2026-01-26 17:30:00,Gate B,123,72,1.71,Cloudy,Concert
+2026-01-26 18:00:00,Stage Area,844,97,8.7,Sunny,Emergency
+2026-01-26 18:30:00,Parking,705,84,8.39,Cloudy,Emergency
+2026-01-26 19:00:00,Gate B,452,46,9.83,Rainy,Normal
+2026-01-26 19:30:00,Gate B,941,90,10.46,Cloudy,Normal
+2026-01-26 20:00:00,Parking,793,45,17.62,Sunny,Concert
+2026-01-26 20:30:00,Gate A,566,94,6.02,Rainy,Normal
+2026-01-26 21:00:00,Gate B,110,97,1.13,Cloudy,Normal
+2026-01-26 21:30:00,Gate C,317,89,3.56,Cloudy,Festival
+2026-01-26 22:00:00,Parking,667,97,6.88,Cloudy,Normal
+2026-01-26 22:30:00,Stage Area,492,100,4.92,Cloudy,Concert
+2026-01-26 23:00:00,Gate C,784,78,10.05,Sunny,Normal
+2026-01-26 23:30:00,Parking,151,89,1.7,Rainy,Normal
+2026-01-27 00:00:00,Gate A,476,85,5.6,Cloudy,Concert
+2026-01-27 00:30:00,Parking,500,52,9.62,Cloudy,Festival
+2026-01-27 01:00:00,Parking,783,72,10.88,Sunny,Normal
+2026-01-27 01:30:00,Gate B,562,58,9.69,Sunny,Normal
+2026-01-27 02:00:00,Parking,763,44,17.34,Rainy,Festival
+2026-01-27 02:30:00,Gate C,279,100,2.79,Rainy,Concert
+2026-01-27 03:00:00,Gate B,407,76,5.36,Sunny,Normal
+2026-01-27 03:30:00,Gate B,83,89,0.93,Cloudy,Festival
+2026-01-27 04:00:00,Gate A,670,98,6.84,Rainy,Concert
+2026-01-27 04:30:00,Parking,958,88,10.89,Rainy,Emergency
+2026-01-27 05:00:00,Gate A,173,91,1.9,Sunny,Concert
+2026-01-27 05:30:00,Stage Area,699,85,8.22,Sunny,Emergency
+2026-01-27 06:00:00,Gate C,283,50,5.66,Cloudy,Normal
+2026-01-27 06:30:00,Gate C,694,74,9.38,Sunny,Concert
+2026-01-27 07:00:00,Parking,588,45,13.07,Rainy,Festival
+2026-01-27 07:30:00,Stage Area,493,40,12.32,Sunny,Concert
+2026-01-27 08:00:00,Parking,144,45,3.2,Cloudy,Normal
+2026-01-27 08:30:00,Stage Area,135,71,1.9,Rainy,Normal
+2026-01-27 09:00:00,Gate B,594,94,6.32,Rainy,Concert
+2026-01-27 09:30:00,Parking,979,72,13.6,Rainy,Festival
+2026-01-27 10:00:00,Parking,389,62,6.27,Rainy,Emergency
+2026-01-27 10:30:00,Gate A,385,75,5.13,Sunny,Festival
+2026-01-27 11:00:00,Stage Area,945,84,11.25,Sunny,Festival
+2026-01-27 11:30:00,Gate A,806,91,8.86,Cloudy,Emergency
+2026-01-27 12:00:00,Gate C,391,76,5.14,Rainy,Normal
+2026-01-27 12:30:00,Stage Area,969,63,15.38,Sunny,Concert
+2026-01-27 13:00:00,Gate C,316,60,5.27,Rainy,Festival
+2026-01-27 13:30:00,Gate A,425,100,4.25,Sunny,Festival
+2026-01-27 14:00:00,Parking,106,83,1.28,Sunny,Festival
+2026-01-27 14:30:00,Stage Area,735,40,18.38,Rainy,Concert
+2026-01-27 15:00:00,Gate B,269,84,3.2,Sunny,Festival
+2026-01-27 15:30:00,Gate C,875,81,10.8,Rainy,Normal
+2026-01-27 16:00:00,Parking,272,93,2.92,Cloudy,Normal
+2026-01-27 16:30:00,Parking,417,52,8.02,Sunny,Concert
+2026-01-27 17:00:00,Stage Area,101,92,1.1,Cloudy,Festival
+2026-01-27 17:30:00,Gate A,588,46,12.78,Rainy,Festival
+2026-01-27 18:00:00,Gate B,761,63,12.08,Cloudy,Normal
+2026-01-27 18:30:00,Gate A,696,86,8.09,Sunny,Festival
+2026-01-27 19:00:00,Stage Area,609,82,7.43,Sunny,Emergency
+2026-01-27 19:30:00,Gate C,720,79,9.11,Sunny,Festival
+2026-01-27 20:00:00,Gate C,526,59,8.92,Rainy,Normal
+2026-01-27 20:30:00,Gate A,666,100,6.66,Sunny,Normal
+2026-01-27 21:00:00,Stage Area,968,42,23.05,Sunny,Normal
+2026-01-27 21:30:00,Parking,865,40,21.62,Rainy,Emergency
+2026-01-27 22:00:00,Gate B,125,99,1.26,Cloudy,Festival
+2026-01-27 22:30:00,Gate C,626,69,9.07,Sunny,Concert
+2026-01-27 23:00:00,Stage Area,621,48,12.94,Sunny,Normal
+2026-01-27 23:30:00,Parking,121,87,1.39,Cloudy,Festival
+2026-01-28 00:00:00,Gate A,896,89,10.07,Sunny,Festival
+2026-01-28 00:30:00,Stage Area,788,96,8.21,Rainy,Emergency
+2026-01-28 01:00:00,Gate B,630,68,9.26,Cloudy,Normal
+2026-01-28 01:30:00,Parking,952,81,11.75,Sunny,Emergency
+2026-01-28 02:00:00,Gate A,712,54,13.19,Sunny,Emergency
+2026-01-28 02:30:00,Gate B,418,84,4.98,Rainy,Festival
+2026-01-28 03:00:00,Gate B,290,75,3.87,Sunny,Emergency
+2026-01-28 03:30:00,Gate A,203,95,2.14,Rainy,Emergency
+2026-01-28 04:00:00,Stage Area,913,54,16.91,Cloudy,Emergency
+2026-01-28 04:30:00,Gate C,269,55,4.89,Sunny,Emergency
+2026-01-28 05:00:00,Gate C,789,69,11.43,Sunny,Normal
+2026-01-28 05:30:00,Gate C,382,94,4.06,Rainy,Normal
+2026-01-28 06:00:00,Gate A,280,92,3.04,Sunny,Normal
+2026-01-28 06:30:00,Parking,200,40,5.0,Cloudy,Emergency
+2026-01-28 07:00:00,Parking,241,81,2.98,Rainy,Concert
+2026-01-28 07:30:00,Gate A,954,71,13.44,Sunny,Festival
+2026-01-28 08:00:00,Gate B,518,67,7.73,Cloudy,Concert
+2026-01-28 08:30:00,Gate B,969,95,10.2,Rainy,Normal
+2026-01-28 09:00:00,Gate B,464,73,6.36,Sunny,Concert
+2026-01-28 09:30:00,Gate C,548,70,7.83,Rainy,Concert
+2026-01-28 10:00:00,Parking,500,73,6.85,Rainy,Festival
+2026-01-28 10:30:00,Gate B,234,83,2.82,Cloudy,Festival
+2026-01-28 11:00:00,Gate C,61,45,1.36,Sunny,Concert
+2026-01-28 11:30:00,Gate B,500,89,5.62,Sunny,Normal
+2026-01-28 12:00:00,Gate B,202,71,2.85,Cloudy,Festival
+2026-01-28 12:30:00,Stage Area,192,60,3.2,Cloudy,Emergency
+2026-01-28 13:00:00,Parking,968,70,13.83,Sunny,Festival
+2026-01-28 13:30:00,Gate C,846,83,10.19,Cloudy,Festival
+2026-01-28 14:00:00,Gate C,366,49,7.47,Rainy,Festival
+2026-01-28 14:30:00,Gate B,796,82,9.71,Sunny,Normal
+2026-01-28 15:00:00,Gate A,859,93,9.24,Rainy,Normal
+2026-01-28 15:30:00,Gate A,837,51,16.41,Cloudy,Normal
+2026-01-28 16:00:00,Parking,764,55,13.89,Cloudy,Emergency
+2026-01-28 16:30:00,Stage Area,141,49,2.88,Sunny,Concert
+2026-01-28 17:00:00,Gate A,753,64,11.77,Rainy,Normal
+2026-01-28 17:30:00,Stage Area,434,58,7.48,Cloudy,Concert
+2026-01-28 18:00:00,Parking,812,97,8.37,Rainy,Normal
+2026-01-28 18:30:00,Gate A,154,58,2.66,Rainy,Festival
+2026-01-28 19:00:00,Parking,61,82,0.74,Sunny,Normal
+2026-01-28 19:30:00,Gate C,934,57,16.39,Cloudy,Normal
+2026-01-28 20:00:00,Stage Area,824,89,9.26,Sunny,Normal
+2026-01-28 20:30:00,Stage Area,740,62,11.94,Cloudy,Festival
+2026-01-28 21:00:00,Parking,560,100,5.6,Cloudy,Emergency
+2026-01-28 21:30:00,Gate C,876,91,9.63,Rainy,Festival
+2026-01-28 22:00:00,Gate C,699,42,16.64,Cloudy,Normal
+2026-01-28 22:30:00,Gate B,878,72,12.19,Sunny,Festival
+2026-01-28 23:00:00,Parking,983,55,17.87,Cloudy,Normal
+2026-01-28 23:30:00,Parking,151,54,2.8,Sunny,Normal
+2026-01-29 00:00:00,Stage Area,930,78,11.92,Rainy,Normal
+2026-01-29 00:30:00,Parking,755,74,10.2,Cloudy,Festival
+2026-01-29 01:00:00,Gate C,580,66,8.79,Cloudy,Normal
+2026-01-29 01:30:00,Gate C,131,41,3.2,Sunny,Normal
+2026-01-29 02:00:00,Gate B,306,60,5.1,Rainy,Concert
+2026-01-29 02:30:00,Gate A,982,78,12.59,Rainy,Emergency
+2026-01-29 03:00:00,Gate C,705,84,8.39,Sunny,Emergency
+2026-01-29 03:30:00,Gate C,244,66,3.7,Cloudy,Emergency
+2026-01-29 04:00:00,Gate B,938,45,20.84,Sunny,Concert
+2026-01-29 04:30:00,Gate C,412,81,5.09,Cloudy,Normal
+2026-01-29 05:00:00,Gate A,995,84,11.85,Rainy,Emergency
+2026-01-29 05:30:00,Stage Area,108,50,2.16,Sunny,Normal
+2026-01-29 06:00:00,Gate C,871,87,10.01,Sunny,Emergency
+2026-01-29 06:30:00,Gate A,672,79,8.51,Cloudy,Emergency
+2026-01-29 07:00:00,Gate B,405,98,4.13,Rainy,Emergency
+2026-01-29 07:30:00,Gate C,440,67,6.57,Sunny,Emergency
+2026-01-29 08:00:00,Stage Area,69,72,0.96,Sunny,Normal
+2026-01-29 08:30:00,Gate B,194,50,3.88,Cloudy,Emergency
+2026-01-29 09:00:00,Gate C,701,51,13.75,Cloudy,Emergency
+2026-01-29 09:30:00,Gate C,263,74,3.55,Cloudy,Concert
+2026-01-29 10:00:00,Gate C,385,76,5.07,Rainy,Normal
+2026-01-29 10:30:00,Parking,140,45,3.11,Rainy,Normal
+2026-01-29 11:00:00,Gate B,234,74,3.16,Sunny,Festival
+2026-01-29 11:30:00,Gate C,553,72,7.68,Sunny,Festival
+2026-01-29 12:00:00,Stage Area,173,46,3.76,Cloudy,Festival
+2026-01-29 12:30:00,Gate C,558,72,7.75,Sunny,Concert
+2026-01-29 13:00:00,Parking,147,58,2.53,Rainy,Emergency
+2026-01-29 13:30:00,Gate B,105,93,1.13,Sunny,Emergency
+2026-01-29 14:00:00,Stage Area,198,42,4.71,Rainy,Normal
+2026-01-29 14:30:00,Parking,833,56,14.88,Sunny,Concert
+2026-01-29 15:00:00,Parking,932,80,11.65,Sunny,Concert
+2026-01-29 15:30:00,Gate A,731,42,17.4,Sunny,Normal
+2026-01-29 16:00:00,Stage Area,890,92,9.67,Sunny,Festival
+2026-01-29 16:30:00,Gate C,790,94,8.4,Rainy,Normal
+2026-01-29 17:00:00,Parking,266,50,5.32,Sunny,Emergency
+2026-01-29 17:30:00,Stage Area,209,42,4.98,Sunny,Concert
+2026-01-29 18:00:00,Parking,890,64,13.91,Cloudy,Concert
+2026-01-29 18:30:00,Parking,538,54,9.96,Sunny,Emergency
+2026-01-29 19:00:00,Gate A,278,59,4.71,Sunny,Normal
+2026-01-29 19:30:00,Gate C,910,61,14.92,Sunny,Festival
+2026-01-29 20:00:00,Parking,571,73,7.82,Sunny,Concert
+2026-01-29 20:30:00,Gate C,267,59,4.53,Sunny,Emergency
+2026-01-29 21:00:00,Gate A,368,78,4.72,Cloudy,Concert
+2026-01-29 21:30:00,Stage Area,489,81,6.04,Cloudy,Concert
+2026-01-29 22:00:00,Parking,409,60,6.82,Rainy,Emergency
+2026-01-29 22:30:00,Gate C,215,85,2.53,Sunny,Festival
+2026-01-29 23:00:00,Gate C,302,57,5.3,Rainy,Normal
+2026-01-29 23:30:00,Gate C,668,91,7.34,Sunny,Normal
+2026-01-30 00:00:00,Gate A,199,89,2.24,Rainy,Festival
+2026-01-30 00:30:00,Gate C,746,66,11.3,Cloudy,Emergency
+2026-01-30 01:00:00,Gate B,127,70,1.81,Rainy,Emergency
+2026-01-30 01:30:00,Gate C,582,83,7.01,Sunny,Festival
+2026-01-30 02:00:00,Gate A,802,60,13.37,Cloudy,Concert
+2026-01-30 02:30:00,Gate A,750,60,12.5,Cloudy,Concert
+2026-01-30 03:00:00,Gate B,125,78,1.6,Sunny,Festival
+2026-01-30 03:30:00,Stage Area,367,43,8.53,Rainy,Concert
+2026-01-30 04:00:00,Parking,779,40,19.48,Rainy,Emergency
+2026-01-30 04:30:00,Gate A,584,87,6.71,Sunny,Concert
+2026-01-30 05:00:00,Parking,230,52,4.42,Rainy,Concert
+2026-01-30 05:30:00,Gate B,298,47,6.34,Rainy,Concert
+2026-01-30 06:00:00,Parking,890,62,14.35,Sunny,Festival
+2026-01-30 06:30:00,Stage Area,255,97,2.63,Rainy,Concert
+2026-01-30 07:00:00,Gate C,953,43,22.16,Cloudy,Normal
+2026-01-30 07:30:00,Gate B,746,49,15.22,Rainy,Normal
+2026-01-30 08:00:00,Parking,435,47,9.26,Cloudy,Emergency
+2026-01-30 08:30:00,Gate A,854,57,14.98,Sunny,Normal
+2026-01-30 09:00:00,Gate B,472,97,4.87,Cloudy,Festival
+2026-01-30 09:30:00,Stage Area,282,85,3.32,Cloudy,Concert
+2026-01-30 10:00:00,Stage Area,769,73,10.53,Sunny,Emergency
+2026-01-30 10:30:00,Gate B,329,76,4.33,Rainy,Concert
+2026-01-30 11:00:00,Parking,345,92,3.75,Cloudy,Concert
+2026-01-30 11:30:00,Gate A,961,100,9.61,Rainy,Normal
+2026-01-30 12:00:00,Gate C,498,42,11.86,Cloudy,Normal
+2026-01-30 12:30:00,Parking,868,67,12.96,Sunny,Normal
+2026-01-30 13:00:00,Parking,791,94,8.41,Cloudy,Normal
+2026-01-30 13:30:00,Parking,608,80,7.6,Sunny,Emergency
+2026-01-30 14:00:00,Stage Area,468,67,6.99,Rainy,Concert
+2026-01-30 14:30:00,Stage Area,552,91,6.07,Cloudy,Normal
+2026-01-30 15:00:00,Stage Area,383,92,4.16,Rainy,Festival
+2026-01-30 15:30:00,Gate A,420,78,5.38,Cloudy,Emergency
+2026-01-30 16:00:00,Gate B,858,47,18.26,Rainy,Emergency
+2026-01-30 16:30:00,Gate B,872,48,18.17,Cloudy,Festival
+2026-01-30 17:00:00,Gate C,492,96,5.12,Rainy,Concert
+2026-01-30 17:30:00,Parking,297,64,4.64,Sunny,Normal
+2026-01-30 18:00:00,Parking,863,80,10.79,Cloudy,Festival
+2026-01-30 18:30:00,Stage Area,257,87,2.95,Cloudy,Festival
+2026-01-30 19:00:00,Gate B,578,59,9.8,Cloudy,Festival
+2026-01-30 19:30:00,Parking,179,44,4.07,Sunny,Normal
+2026-01-30 20:00:00,Gate B,149,48,3.1,Sunny,Festival
+2026-01-30 20:30:00,Gate B,526,77,6.83,Rainy,Festival
+2026-01-30 21:00:00,Gate A,879,61,14.41,Cloudy,Festival
+2026-01-30 21:30:00,Gate C,185,97,1.91,Sunny,Emergency
+2026-01-30 22:00:00,Gate C,429,70,6.13,Cloudy,Festival
+2026-01-30 22:30:00,Gate B,273,75,3.64,Rainy,Emergency
+2026-01-30 23:00:00,Gate C,808,94,8.6,Sunny,Concert
+2026-01-30 23:30:00,Stage Area,172,50,3.44,Cloudy,Normal
+2026-01-31 00:00:00,Stage Area,767,73,10.51,Rainy,Emergency
+2026-01-31 00:30:00,Gate B,440,53,8.3,Sunny,Festival
+2026-01-31 01:00:00,Parking,199,41,4.85,Rainy,Festival
+2026-01-31 01:30:00,Gate C,154,87,1.77,Rainy,Emergency
+2026-01-31 02:00:00,Gate A,429,50,8.58,Sunny,Emergency
+2026-01-31 02:30:00,Gate C,247,47,5.26,Cloudy,Normal
+2026-01-31 03:00:00,Gate C,607,96,6.32,Sunny,Emergency
+2026-01-31 03:30:00,Stage Area,705,86,8.2,Cloudy,Concert
+2026-01-31 04:00:00,Gate C,749,61,12.28,Sunny,Festival
+2026-01-31 04:30:00,Parking,650,60,10.83,Rainy,Emergency
+2026-01-31 05:00:00,Parking,685,71,9.65,Cloudy,Emergency
+2026-01-31 05:30:00,Stage Area,953,73,13.05,Rainy,Concert
+2026-01-31 06:00:00,Stage Area,646,76,8.5,Rainy,Normal
+2026-01-31 06:30:00,Stage Area,612,60,10.2,Sunny,Festival
+2026-01-31 07:00:00,Gate C,696,61,11.41,Sunny,Concert
+2026-01-31 07:30:00,Stage Area,403,85,4.74,Sunny,Concert
+2026-01-31 08:00:00,Gate B,776,58,13.38,Rainy,Normal
+2026-01-31 08:30:00,Gate C,238,58,4.1,Rainy,Concert
+2026-01-31 09:00:00,Parking,908,42,21.62,Rainy,Concert
+2026-01-31 09:30:00,Stage Area,564,83,6.8,Cloudy,Emergency
+2026-01-31 10:00:00,Gate C,159,97,1.64,Rainy,Festival
+2026-01-31 10:30:00,Gate C,535,51,10.49,Rainy,Normal
+2026-01-31 11:00:00,Gate C,345,68,5.07,Rainy,Festival
+2026-01-31 11:30:00,Stage Area,378,92,4.11,Sunny,Emergency
+2026-01-31 12:00:00,Gate A,228,73,3.12,Rainy,Emergency
+2026-01-31 12:30:00,Gate B,524,79,6.63,Rainy,Emergency
+2026-01-31 13:00:00,Gate C,241,94,2.56,Rainy,Emergency
+2026-01-31 13:30:00,Gate A,935,40,23.38,Cloudy,Emergency
+2026-01-31 14:00:00,Gate B,94,85,1.11,Sunny,Festival
+2026-01-31 14:30:00,Gate A,280,67,4.18,Rainy,Emergency
+2026-01-31 15:00:00,Gate B,166,50,3.32,Sunny,Normal
+2026-01-31 15:30:00,Gate A,938,65,14.43,Sunny,Normal
+2026-01-31 16:00:00,Gate C,917,83,11.05,Cloudy,Normal
+2026-01-31 16:30:00,Parking,241,51,4.73,Sunny,Festival
+2026-01-31 17:00:00,Stage Area,303,90,3.37,Cloudy,Emergency
+2026-01-31 17:30:00,Gate C,720,69,10.43,Rainy,Festival
+2026-01-31 18:00:00,Stage Area,209,100,2.09,Cloudy,Normal
+2026-01-31 18:30:00,Gate C,57,75,0.76,Cloudy,Festival
+2026-01-31 19:00:00,Gate C,795,94,8.46,Sunny,Festival
+2026-01-31 19:30:00,Parking,897,53,16.92,Rainy,Emergency
+2026-01-31 20:00:00,Gate A,998,97,10.29,Sunny,Festival
+2026-01-31 20:30:00,Gate A,889,87,10.22,Cloudy,Emergency
+2026-01-31 21:00:00,Gate A,813,43,18.91,Rainy,Festival
+2026-01-31 21:30:00,Parking,228,93,2.45,Cloudy,Emergency
+2026-01-31 22:00:00,Gate C,574,40,14.35,Cloudy,Normal
+2026-01-31 22:30:00,Stage Area,826,99,8.34,Rainy,Emergency
+2026-01-31 23:00:00,Gate B,499,82,6.09,Cloudy,Normal
+2026-01-31 23:30:00,Gate B,333,52,6.4,Cloudy,Concert
+2026-02-01 00:00:00,Parking,612,45,13.6,Cloudy,Normal
+2026-02-01 00:30:00,Gate C,700,52,13.46,Rainy,Normal
+2026-02-01 01:00:00,Stage Area,69,43,1.6,Cloudy,Festival
+2026-02-01 01:30:00,Gate C,341,53,6.43,Sunny,Emergency
+2026-02-01 02:00:00,Parking,730,47,15.53,Rainy,Festival
+2026-02-01 02:30:00,Parking,609,62,9.82,Cloudy,Normal
+2026-02-01 03:00:00,Gate A,799,79,10.11,Cloudy,Festival
+2026-02-01 03:30:00,Gate C,994,54,18.41,Sunny,Normal
+2026-02-01 04:00:00,Gate B,304,61,4.98,Rainy,Normal
+2026-02-01 04:30:00,Gate C,341,78,4.37,Rainy,Emergency
+2026-02-01 05:00:00,Gate A,300,93,3.23,Sunny,Festival
+2026-02-01 05:30:00,Gate C,510,74,6.89,Sunny,Concert
+2026-02-01 06:00:00,Parking,174,43,4.05,Cloudy,Concert
+2026-02-01 06:30:00,Gate B,167,88,1.9,Rainy,Concert
+2026-02-01 07:00:00,Gate B,678,44,15.41,Cloudy,Concert
+2026-02-01 07:30:00,Gate C,734,43,17.07,Rainy,Concert
+2026-02-01 08:00:00,Gate C,802,80,10.03,Cloudy,Emergency
+2026-02-01 08:30:00,Gate A,69,78,0.88,Cloudy,Emergency
+2026-02-01 09:00:00,Gate B,313,44,7.11,Cloudy,Concert
+2026-02-01 09:30:00,Stage Area,714,42,17.0,Rainy,Festival
+2026-02-01 10:00:00,Gate B,926,54,17.15,Sunny,Normal
+2026-02-01 10:30:00,Gate C,850,73,11.64,Cloudy,Normal
+2026-02-01 11:00:00,Stage Area,843,41,20.56,Cloudy,Emergency
+2026-02-01 11:30:00,Gate C,244,65,3.75,Sunny,Emergency
+2026-02-01 12:00:00,Parking,775,48,16.15,Cloudy,Normal
+2026-02-01 12:30:00,Gate C,199,46,4.33,Sunny,Emergency
+2026-02-01 13:00:00,Gate C,967,47,20.57,Cloudy,Emergency
+2026-02-01 13:30:00,Gate A,782,61,12.82,Sunny,Normal
