@@ -1,4 +1,4 @@
-# 🚦 Smart Crowd Management System
+# 🚦 Crowd Density Prediction & Monitoring System
 
 An AI-powered Smart Crowd Management System using YOLOv8, OpenCV, Machine Learning, and Streamlit for real-time crowd detection, density monitoring, heatmap visualization, and overcrowding alerts through live webcam, image, and video analysis.
 
